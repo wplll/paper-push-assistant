@@ -71,7 +71,14 @@ def _fetch_arxiv_metadata(arxiv_id: str, timeout: int) -> dict:
 
 
 def _fetch_web_metadata(url: str, timeout: int) -> dict:
-    """Fetch basic metadata from a web page using BeautifulSoup."""
+    """Fetch basic metadata from a web page using BeautifulSoup.
+
+    Tries multiple strategies to find an abstract/summary:
+    1. og:description meta tag
+    2. description meta tag
+    3. citation_abstract meta tag (IEEE, Springer)
+    4. Abstract section in page body
+    """
     try:
         resp = requests.get(
             url,
@@ -86,13 +93,38 @@ def _fetch_web_metadata(url: str, timeout: int) -> dict:
         if title_tag and title_tag.text:
             result["web_title"] = title_tag.text.strip()[:200]
 
-        meta_desc = soup.find("meta", attrs={"name": "description"})
-        if meta_desc and meta_desc.get("content"):
-            result["web_description"] = meta_desc["content"].strip()[:500]
-
+        # Strategy 1: og:description
         og_desc = soup.find("meta", attrs={"property": "og:description"})
         if og_desc and og_desc.get("content"):
             result["web_description"] = og_desc["content"].strip()[:500]
+
+        # Strategy 2: description meta
+        if "web_description" not in result:
+            meta_desc = soup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                result["web_description"] = meta_desc["content"].strip()[:500]
+
+        # Strategy 3: citation_abstract (common in academic publishers)
+        citation_abs = soup.find("meta", attrs={"name": "citation_abstract"})
+        if citation_abs and citation_abs.get("content"):
+            result["abstract"] = citation_abs["content"].strip()[:2000]
+
+        # Strategy 4: Look for abstract section in page body
+        if "abstract" not in result:
+            for selector in [
+                "div.abstract",
+                "section.abstract",
+                "div#abstract",
+                "div.Abstracts",
+                "div[role='doc-abstract']",
+                "p.article-body__section-text",
+            ]:
+                el = soup.select_one(selector)
+                if el:
+                    text = el.get_text(separator=" ", strip=True)
+                    if len(text) > 50:
+                        result["abstract"] = text[:2000]
+                        break
 
         return result
 
