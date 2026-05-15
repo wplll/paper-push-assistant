@@ -46,7 +46,7 @@ USER_PROMPT_TEMPLATE = """请对以下论文进行详细解读分析，并以JSO
 }}
 """
 
-USER_PROMPT_NO_ABSTRACT_TEMPLATE = """当前论文未能从网页自动获取到摘要。请你根据以下论文名称和链接，尝试搜索并回忆该论文的内容，生成中文论文解读。
+USER_PROMPT_NO_ABSTRACT_TEMPLATE = """当前论文未能从网页自动获取到摘要。请你根据以下论文信息，利用你的知识库和领域经验进行分析，生成中文论文解读。
 
 论文信息：
 - 标题：{title}
@@ -54,8 +54,12 @@ USER_PROMPT_NO_ABSTRACT_TEMPLATE = """当前论文未能从网页自动获取到
 - 方向/类别：{category}
 - 论文链接：{paper_url}
 - 代码链接：{code_url}
-
-请你基于对该论文的了解进行分析。如果你了解这篇论文，请尽量详细地分析；如果你不了解，请在各字段中说明"未能检索到该论文的详细信息"。
+{extra_metadata}
+请注意：
+1. 如果你了解这篇论文或其相关工作，请基于你的知识尽量详细地分析
+2. 如果你不确定具体实验细节，可以基于同领域同类型论文的常见实验设置进行合理推测，并标注"基于领域经验推测"
+3. 对于创新点和方法概述，可以根据标题中的关键技术词汇（如模型名称、方法特征）进行合理推断
+4. 不要简单地回复"未能检索到"，而应尽量提供有价值的分析
 
 请严格按照以下JSON格式输出（不要输出其他内容）：
 {{
@@ -64,9 +68,9 @@ USER_PROMPT_NO_ABSTRACT_TEMPLATE = """当前论文未能从网页自动获取到
   "research_problem": "这篇论文要解决的核心问题",
   "method_overview": "方法概述，重点解释模型结构、模态融合、时序建模或训练策略",
   "key_innovations": ["创新点1", "创新点2", "创新点3"],
-  "experiments": "实验设置、数据集和对比方法；如果无法确定，请说明未能检索到",
+  "experiments": "实验设置、数据集和对比方法；如果无法确定，基于领域经验推测并标注",
   "limitations": ["可能局限1", "可能局限2"],
-  "relevance_to_user": "说明这篇论文对多模态目标跟踪的启发",
+  "relevance_to_user": "说明这篇论文对多模态目标跟踪、视觉跟踪模型改进、时序图像分析或多模态特征融合的启发",
   "reading_priority": "高/中/低",
   "why_read": "为什么值得或不值得优先阅读"
 }}
@@ -95,6 +99,31 @@ def _has_abstract(paper: dict) -> bool:
     return len(abstract.strip()) > 20
 
 
+def _build_extra_metadata(paper: dict) -> str:
+    """Build extra metadata string for papers without abstract."""
+    lines = []
+    if paper.get("doi"):
+        lines.append(f"- DOI：{paper['doi']}")
+    if paper.get("journal"):
+        lines.append(f"- 期刊/会议：{paper['journal']}")
+    if paper.get("cover_date"):
+        lines.append(f"- 发表日期：{paper['cover_date']}")
+    if paper.get("elsevier_title"):
+        lines.append(f"- 完整标题：{paper['elsevier_title']}")
+    if paper.get("abstract_title"):
+        lines.append(f"- 英文标题：{paper['abstract_title']}")
+    if paper.get("authors"):
+        authors = paper["authors"]
+        if isinstance(authors, list):
+            lines.append(f"- 作者：{', '.join(authors[:5])}")
+    if paper.get("web_description"):
+        lines.append(f"- 网页描述：{paper['web_description']}")
+
+    if lines:
+        return "- 其他信息：\n" + "\n".join(f"  {line}" for line in lines)
+    return ""
+
+
 def _format_user_prompt(paper: dict) -> tuple[str, str]:
     """Format the user prompt for a specific paper.
 
@@ -111,12 +140,14 @@ def _format_user_prompt(paper: dict) -> tuple[str, str]:
             abstract=paper.get("abstract", ""),
         )
     else:
+        extra = _build_extra_metadata(paper)
         return SYSTEM_PROMPT_NO_ABSTRACT, USER_PROMPT_NO_ABSTRACT_TEMPLATE.format(
             title=paper.get("title", "N/A"),
             year=paper.get("year", "N/A"),
             category=paper.get("category", paper.get("source_section", "N/A")),
             paper_url=paper.get("paper_url", "N/A"),
             code_url=paper.get("code_url", "无"),
+            extra_metadata=extra,
         )
 
 
