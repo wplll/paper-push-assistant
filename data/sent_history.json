@@ -18,5 +18,15 @@
     "title": "HATrack",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417426013394",
     "sent_at": "2026-05-15T02:01:00.623016+00:00"
+  },
+  "16fec07890a1e17c": {
+    "title": "PATrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0030399225020651",
+    "sent_at": "2026-05-15T05:02:38.503391+00:00"
+  },
+  "9ed3e42c3f99ffce": {
+    "title": "IMAT",
+    "paper_url": "https://arxiv.org/abs/2604.01974",
+    "sent_at": "2026-05-15T05:02:38.503417+00:00"
   }
 }
