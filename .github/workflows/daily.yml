@@ -3,7 +3,7 @@ name: Daily Paper Push
 on:
   schedule:
     # UTC 01:00 = Beijing/Singapore 09:00
-    - cron: '0 1 * * *'
+    - cron: '16 1 * * *'
   workflow_dispatch:
 
 permissions:
