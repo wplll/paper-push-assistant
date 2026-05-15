@@ -8,5 +8,15 @@
     "title": "VL-UniTrack",
     "paper_url": "https://arxiv.org/abs/2605.04574",
     "sent_at": "2026-05-14T12:24:59.308957+00:00"
+  },
+  "4a4fff3519ea0215": {
+    "title": "TAPTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11477854",
+    "sent_at": "2026-05-15T02:01:00.622988+00:00"
+  },
+  "b71850f34b5aa49c": {
+    "title": "HATrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417426013394",
+    "sent_at": "2026-05-15T02:01:00.623016+00:00"
   }
 }
