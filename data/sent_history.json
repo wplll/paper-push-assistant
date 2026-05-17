@@ -38,5 +38,15 @@
     "title": "DIFTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11464901",
     "sent_at": "2026-05-16T04:38:42.823616+00:00"
+  },
+  "f7c87d065d803c25": {
+    "title": "ChatTracker",
+    "paper_url": "https://ieeexplore.ieee.org/document/11435004",
+    "sent_at": "2026-05-17T05:01:50.047797+00:00"
+  },
+  "b67ac869b19a7eea": {
+    "title": "AlignTrack",
+    "paper_url": "https://github.com/scy0712/AlignTrack",
+    "sent_at": "2026-05-17T05:01:50.047822+00:00"
   }
 }
