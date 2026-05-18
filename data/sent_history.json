@@ -48,5 +48,15 @@
     "title": "AlignTrack",
     "paper_url": "https://github.com/scy0712/AlignTrack",
     "sent_at": "2026-05-17T05:01:50.047822+00:00"
+  },
+  "34d9aec4c8d78966": {
+    "title": "SFCATrack",
+    "paper_url": "https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf",
+    "sent_at": "2026-05-18T05:18:40.503628+00:00"
+  },
+  "3ca51d18daaf0e3e": {
+    "title": "SOR-Track",
+    "paper_url": "https://arxiv.org/abs/2603.27913",
+    "sent_at": "2026-05-18T05:18:40.503646+00:00"
   }
 }
