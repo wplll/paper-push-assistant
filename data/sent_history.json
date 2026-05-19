@@ -58,5 +58,15 @@
     "title": "SOR-Track",
     "paper_url": "https://arxiv.org/abs/2603.27913",
     "sent_at": "2026-05-18T05:18:40.503646+00:00"
+  },
+  "0bd0d22d892da5cd": {
+    "title": "APMTrack",
+    "paper_url": "https://arxiv.org/abs/2601.01022",
+    "sent_at": "2026-05-19T05:13:56.846550+00:00"
+  },
+  "ac895f9760335e9f": {
+    "title": "RAGTrack",
+    "paper_url": "https://arxiv.org/abs/2603.03617",
+    "sent_at": "2026-05-19T05:13:56.846575+00:00"
   }
 }
