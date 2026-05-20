@@ -68,5 +68,15 @@
     "title": "RAGTrack",
     "paper_url": "https://arxiv.org/abs/2603.03617",
     "sent_at": "2026-05-19T05:13:56.846575+00:00"
+  },
+  "1d79500a3d8c710f": {
+    "title": "CosFly-Track",
+    "paper_url": "https://arxiv.org/abs/2605.17776",
+    "sent_at": "2026-05-20T05:16:56.375201+00:00"
+  },
+  "700e41dce712a63b": {
+    "title": "GOLA",
+    "paper_url": "https://arxiv.org/html/2512.05359v1",
+    "sent_at": "2026-05-20T05:16:56.375223+00:00"
   }
 }
