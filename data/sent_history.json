@@ -78,5 +78,15 @@
     "title": "GOLA",
     "paper_url": "https://arxiv.org/html/2512.05359v1",
     "sent_at": "2026-05-20T05:16:56.375223+00:00"
+  },
+  "2b57e930aa81c217": {
+    "title": "CADTrack",
+    "paper_url": "https://arxiv.org/abs/2511.17967",
+    "sent_at": "2026-05-21T05:20:19.036279+00:00"
+  },
+  "fa5630f1b9c89483": {
+    "title": "MDTrack",
+    "paper_url": "https://arxiv.org/abs/2603.09287",
+    "sent_at": "2026-05-21T05:20:19.036298+00:00"
   }
 }
