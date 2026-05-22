@@ -88,5 +88,15 @@
     "title": "MDTrack",
     "paper_url": "https://arxiv.org/abs/2603.09287",
     "sent_at": "2026-05-21T05:20:19.036298+00:00"
+  },
+  "307bf2967bfa599c": {
+    "title": "VETD220",
+    "paper_url": "https://ieeexplore.ieee.org/document/11458000",
+    "sent_at": "2026-05-22T05:14:23.001472+00:00"
+  },
+  "f19ed48805923b4c": {
+    "title": "DPTracker",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0167865526001224",
+    "sent_at": "2026-05-22T05:14:23.001495+00:00"
   }
 }
