@@ -98,5 +98,15 @@
     "title": "DPTracker",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0167865526001224",
     "sent_at": "2026-05-22T05:14:23.001495+00:00"
+  },
+  "bcee1169fb82570c": {
+    "title": "E2EMPT",
+    "paper_url": "https://arxiv.org/abs/2605.20569",
+    "sent_at": "2026-05-23T04:52:39.744824+00:00"
+  },
+  "6584c561d8a20bc4": {
+    "title": "DRGBT",
+    "paper_url": "https://ieeexplore.ieee.org/document/11449406",
+    "sent_at": "2026-05-23T04:52:39.744847+00:00"
   }
 }
