@@ -108,5 +108,15 @@
     "title": "DRGBT",
     "paper_url": "https://ieeexplore.ieee.org/document/11449406",
     "sent_at": "2026-05-23T04:52:39.744847+00:00"
+  },
+  "f5d01353e16aa75f": {
+    "title": "DDAT",
+    "paper_url": "https://ieeexplore.ieee.org/document/11417270",
+    "sent_at": "2026-05-24T05:13:00.069853+00:00"
+  },
+  "e4951b18c30f4640": {
+    "title": "TCM-tracking",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0262885626000491",
+    "sent_at": "2026-05-24T05:13:00.069878+00:00"
   }
 }
