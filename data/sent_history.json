@@ -118,5 +118,15 @@
     "title": "TCM-tracking",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0262885626000491",
     "sent_at": "2026-05-24T05:13:00.069878+00:00"
+  },
+  "0ce18012b46a0cfb": {
+    "title": "STIFormer",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0262885626000351",
+    "sent_at": "2026-05-25T05:50:21.918754+00:00"
+  },
+  "c86b9bddb3e3aeb2": {
+    "title": "Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S003132032600498X",
+    "sent_at": "2026-05-25T05:50:21.918777+00:00"
   }
 }
