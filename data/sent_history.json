@@ -128,5 +128,15 @@
     "title": "Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S003132032600498X",
     "sent_at": "2026-05-25T05:50:21.918777+00:00"
+  },
+  "acad6cae5a803027": {
+    "title": "MambaTrack",
+    "paper_url": "https://arxiv.org/abs/2411.15761",
+    "sent_at": "2026-05-26T05:13:59.198540+00:00"
+  },
+  "34d94351c35d5d5e": {
+    "title": "SEATrack",
+    "paper_url": "https://arxiv.org/abs/2604.12502",
+    "sent_at": "2026-05-26T05:13:59.198555+00:00"
   }
 }
