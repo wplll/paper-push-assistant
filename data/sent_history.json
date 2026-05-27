@@ -138,5 +138,15 @@
     "title": "SEATrack",
     "paper_url": "https://arxiv.org/abs/2604.12502",
     "sent_at": "2026-05-26T05:13:59.198555+00:00"
+  },
+  "8733b13934d02fd0": {
+    "title": "PATrack",
+    "paper_url": "https://arxiv.org/abs/2603.21100",
+    "sent_at": "2026-05-27T05:42:13.356497+00:00"
+  },
+  "b8fbad3dd66726c7": {
+    "title": "GLAD",
+    "paper_url": "https://link.springer.com/article/10.1007/s11263-026-02774-7",
+    "sent_at": "2026-05-27T05:42:13.356516+00:00"
   }
 }
