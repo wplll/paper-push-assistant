@@ -148,5 +148,15 @@
     "title": "GLAD",
     "paper_url": "https://link.springer.com/article/10.1007/s11263-026-02774-7",
     "sent_at": "2026-05-27T05:42:13.356516+00:00"
+  },
+  "c5674eedeb635220": {
+    "title": "MAVLT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10948517",
+    "sent_at": "2026-05-28T05:20:49.932749+00:00"
+  },
+  "92ff33dbe6ae07f0": {
+    "title": "UWRGBD1k",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X",
+    "sent_at": "2026-05-28T05:20:49.932767+00:00"
   }
 }
