@@ -158,5 +158,15 @@
     "title": "UWRGBD1k",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X",
     "sent_at": "2026-05-28T05:20:49.932767+00:00"
+  },
+  "933bb23d5609bec2": {
+    "title": "SiamCCA",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S2590123026001568",
+    "sent_at": "2026-05-29T05:39:42.743193+00:00"
+  },
+  "e31e2ebe467a2bc1": {
+    "title": "TOTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11494035",
+    "sent_at": "2026-05-29T05:39:42.743217+00:00"
   }
 }
