@@ -168,5 +168,15 @@
     "title": "TOTrack",
     "paper_url": "https://ieeexplore.ieee.org/document/11494035",
     "sent_at": "2026-05-29T05:39:42.743217+00:00"
+  },
+  "ffcedeac5083b25a": {
+    "title": "SCDT",
+    "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/38117",
+    "sent_at": "2026-05-30T05:00:57.806563+00:00"
+  },
+  "18f7ad7e17dc0690": {
+    "title": "Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking",
+    "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/39805",
+    "sent_at": "2026-05-30T05:00:57.806582+00:00"
   }
 }
