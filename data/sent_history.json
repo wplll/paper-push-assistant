@@ -178,5 +178,15 @@
     "title": "Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking",
     "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/39805",
     "sent_at": "2026-05-30T05:00:57.806582+00:00"
+  },
+  "0db90548e6c28b0e": {
+    "title": "Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing",
+    "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/39098",
+    "sent_at": "2026-05-31T05:46:03.452204+00:00"
+  },
+  "ad77c62a86e486af": {
+    "title": "DSPT",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326003985",
+    "sent_at": "2026-05-31T05:46:03.452222+00:00"
   }
 }
