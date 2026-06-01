@@ -188,5 +188,15 @@
     "title": "DSPT",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326003985",
     "sent_at": "2026-05-31T05:46:03.452222+00:00"
+  },
+  "dfce0a70eebeff8f": {
+    "title": "M3FusionTrack",
+    "paper_url": "https://www.researchsquare.com/article/rs-9732826/v1",
+    "sent_at": "2026-06-01T06:19:17.297404+00:00"
+  },
+  "30f75544601969c6": {
+    "title": "MOSSTrack",
+    "paper_url": "https://github.com/lyssyl157/MoSSTrack",
+    "sent_at": "2026-06-01T06:19:17.297420+00:00"
   }
 }
