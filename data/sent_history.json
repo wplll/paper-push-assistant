@@ -198,5 +198,15 @@
     "title": "MOSSTrack",
     "paper_url": "https://github.com/lyssyl157/MoSSTrack",
     "sent_at": "2026-06-01T06:19:17.297420+00:00"
+  },
+  "2ee6079295879bcf": {
+    "title": "UATrack",
+    "paper_url": "https://link.springer.com/article/10.1007/s11263-026-02878-0",
+    "sent_at": "2026-06-02T06:02:58.845535+00:00"
+  },
+  "182679f66d51a086": {
+    "title": "FSMT",
+    "paper_url": "https://ieeexplore.ieee.org/document/11526988",
+    "sent_at": "2026-06-02T06:02:58.845558+00:00"
   }
 }
