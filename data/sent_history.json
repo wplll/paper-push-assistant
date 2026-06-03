@@ -208,5 +208,15 @@
     "title": "FSMT",
     "paper_url": "https://ieeexplore.ieee.org/document/11526988",
     "sent_at": "2026-06-02T06:02:58.845558+00:00"
+  },
+  "22aee2a2cec26ca5": {
+    "title": "TrackVLA++",
+    "paper_url": "https://arxiv.org/abs/2510.07134",
+    "sent_at": "2026-06-03T06:17:50.557412+00:00"
+  },
+  "09eff4f910ce5928": {
+    "title": "EVT-Recovery-Assistant",
+    "paper_url": "https://arxiv.org/abs/2505.20718",
+    "sent_at": "2026-06-03T06:17:50.557430+00:00"
   }
 }
