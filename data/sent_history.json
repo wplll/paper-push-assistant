@@ -228,5 +228,15 @@
     "title": "COST",
     "paper_url": "https://arxiv.org/abs/2504.01321",
     "sent_at": "2026-06-04T06:08:20.302910+00:00"
+  },
+  "b7545a5abf2c91ad": {
+    "title": "MIFMNet",
+    "paper_url": "https://api.semanticscholar.org/CorpusID:286996758",
+    "sent_at": "2026-06-05T05:48:35.049675+00:00"
+  },
+  "a57554de5d6d5b2d": {
+    "title": "CMCLTrack",
+    "paper_url": "https://www.mdpi.com/2079-9292/15/5/989",
+    "sent_at": "2026-06-05T05:48:35.049694+00:00"
   }
 }
