@@ -238,5 +238,15 @@
     "title": "CMCLTrack",
     "paper_url": "https://www.mdpi.com/2079-9292/15/5/989",
     "sent_at": "2026-06-05T05:48:35.049694+00:00"
+  },
+  "acb306c0ae3e8a5a": {
+    "title": "EMTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11026009",
+    "sent_at": "2026-06-06T05:05:33.020218+00:00"
+  },
+  "9bae4da3c4ac0c80": {
+    "title": "MamTrack",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf",
+    "sent_at": "2026-06-06T05:05:33.020236+00:00"
   }
 }
