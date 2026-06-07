@@ -248,5 +248,15 @@
     "title": "MamTrack",
     "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf",
     "sent_at": "2026-06-06T05:05:33.020236+00:00"
+  },
+  "1aca069c5c0e972e": {
+    "title": "MMRGBT",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2026W/URVIS/papers/Lu_Object_Tracking_in_the_Real_World_URVIS_2026_Study_and_CVPRW_2026_paper.pdf",
+    "sent_at": "2026-06-07T05:52:52.314085+00:00"
+  },
+  "48a810cb7759104a": {
+    "title": "MFJA",
+    "paper_url": "https://ieeexplore.ieee.org/document/11112670",
+    "sent_at": "2026-06-07T05:52:52.314105+00:00"
   }
 }
