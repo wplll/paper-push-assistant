@@ -258,5 +258,15 @@
     "title": "MFJA",
     "paper_url": "https://ieeexplore.ieee.org/document/11112670",
     "sent_at": "2026-06-07T05:52:52.314105+00:00"
+  },
+  "7ff514596e71b165": {
+    "title": "Switcher",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326009878",
+    "sent_at": "2026-06-08T06:07:35.303770+00:00"
+  },
+  "6d1f556378a8128b": {
+    "title": "TrackVLA",
+    "paper_url": "https://arxiv.org/abs/2505.23189",
+    "sent_at": "2026-06-08T06:07:35.303794+00:00"
   }
 }
