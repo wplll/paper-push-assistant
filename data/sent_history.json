@@ -268,5 +268,15 @@
     "title": "TrackVLA",
     "paper_url": "https://arxiv.org/abs/2505.23189",
     "sent_at": "2026-06-08T06:07:35.303794+00:00"
+  },
+  "16ac8d458fc61664": {
+    "title": "HIEVT",
+    "paper_url": "https://arxiv.org/abs/2505.20710",
+    "sent_at": "2026-06-09T05:17:14.225623+00:00"
+  },
+  "53919668aeb553ed": {
+    "title": "UAV-Anti-UAV",
+    "paper_url": "https://arxiv.org/abs/2512.07385",
+    "sent_at": "2026-06-09T05:17:14.225647+00:00"
   }
 }
