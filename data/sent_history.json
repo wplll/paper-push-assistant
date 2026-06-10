@@ -278,5 +278,15 @@
     "title": "UAV-Anti-UAV",
     "paper_url": "https://arxiv.org/abs/2512.07385",
     "sent_at": "2026-06-09T05:17:14.225647+00:00"
+  },
+  "ed45ba9ebc8cb452": {
+    "title": "VPTracker",
+    "paper_url": "https://arxiv.org/abs/2512.22799",
+    "sent_at": "2026-06-10T05:49:07.179309+00:00"
+  },
+  "565fcd455d9cbeaa": {
+    "title": "CLDTracker",
+    "paper_url": "https://arxiv.org/abs/2505.23704",
+    "sent_at": "2026-06-10T05:49:07.179330+00:00"
   }
 }
