@@ -288,5 +288,15 @@
     "title": "CLDTracker",
     "paper_url": "https://arxiv.org/abs/2505.23704",
     "sent_at": "2026-06-10T05:49:07.179330+00:00"
+  },
+  "a14425bc15ad9c5d": {
+    "title": "TrackingMeetsLMM",
+    "paper_url": "https://arxiv.org/abs/2503.14498",
+    "sent_at": "2026-06-11T06:05:59.372019+00:00"
+  },
+  "faffe20115722549": {
+    "title": "ISTASTrack",
+    "paper_url": "https://arxiv.org/abs/2509.09977",
+    "sent_at": "2026-06-11T06:05:59.372038+00:00"
   }
 }
