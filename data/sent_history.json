@@ -298,5 +298,15 @@
     "title": "ISTASTrack",
     "paper_url": "https://arxiv.org/abs/2509.09977",
     "sent_at": "2026-06-11T06:05:59.372038+00:00"
+  },
+  "739762b0cdea5255": {
+    "title": "CFPTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11552016/",
+    "sent_at": "2026-06-12T06:01:46.269350+00:00"
+  },
+  "2ffcb656068ae666": {
+    "title": "AMTTrack & FELT v2",
+    "paper_url": "https://arxiv.org/abs/2403.05839",
+    "sent_at": "2026-06-12T06:01:46.269374+00:00"
   }
 }
