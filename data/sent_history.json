@@ -308,5 +308,15 @@
     "title": "AMTTrack & FELT v2",
     "paper_url": "https://arxiv.org/abs/2403.05839",
     "sent_at": "2026-06-12T06:01:46.269374+00:00"
+  },
+  "ed8c0580277a2ca1": {
+    "title": "Mamba-FETrack V2",
+    "paper_url": "https://arxiv.org/abs/2506.23783",
+    "sent_at": "2026-06-13T05:46:37.015453+00:00"
+  },
+  "8fea034ec33fa1ef": {
+    "title": "TENet",
+    "paper_url": "https://arxiv.org/abs/2405.05004",
+    "sent_at": "2026-06-13T05:46:37.015473+00:00"
   }
 }
