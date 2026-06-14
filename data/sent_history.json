@@ -318,5 +318,15 @@
     "title": "TENet",
     "paper_url": "https://arxiv.org/abs/2405.05004",
     "sent_at": "2026-06-13T05:46:37.015473+00:00"
+  },
+  "e67fa3ba4ceac8b4": {
+    "title": "SwiTrack",
+    "paper_url": "https://arxiv.org/abs/2511.16227",
+    "sent_at": "2026-06-14T06:05:37.029353+00:00"
+  },
+  "fa758528d9110c3f": {
+    "title": "GDSTrack",
+    "paper_url": "https://arxiv.org/abs/2505.03507",
+    "sent_at": "2026-06-14T06:05:37.029369+00:00"
   }
 }
