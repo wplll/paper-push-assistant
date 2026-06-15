@@ -328,5 +328,15 @@
     "title": "GDSTrack",
     "paper_url": "https://arxiv.org/abs/2505.03507",
     "sent_at": "2026-06-14T06:05:37.029369+00:00"
+  },
+  "c323fdd185e3b47d": {
+    "title": "VMDA",
+    "paper_url": "https://arxiv.org/abs/2506.23972",
+    "sent_at": "2026-06-15T06:38:29.335027+00:00"
+  },
+  "a1d67b23d98ec485": {
+    "title": "DeTrack",
+    "paper_url": "https://arxiv.org/abs/2605.17451",
+    "sent_at": "2026-06-15T06:38:29.335053+00:00"
   }
 }
