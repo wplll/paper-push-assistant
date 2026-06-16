@@ -338,5 +338,15 @@
     "title": "DeTrack",
     "paper_url": "https://arxiv.org/abs/2605.17451",
     "sent_at": "2026-06-15T06:38:29.335053+00:00"
+  },
+  "952da01b33e66d73": {
+    "title": "AdaTracker",
+    "paper_url": "https://arxiv.org/abs/2604.20305",
+    "sent_at": "2026-06-16T06:43:31.241769+00:00"
+  },
+  "033e254b4c141acf": {
+    "title": "Diff-Tracking",
+    "paper_url": "https://arxiv.org/abs/2605.26933",
+    "sent_at": "2026-06-16T06:43:31.241785+00:00"
   }
 }
