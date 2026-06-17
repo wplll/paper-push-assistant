@@ -348,5 +348,15 @@
     "title": "Diff-Tracking",
     "paper_url": "https://arxiv.org/abs/2605.26933",
     "sent_at": "2026-06-16T06:43:31.241785+00:00"
+  },
+  "70374f27f38885ef": {
+    "title": "SAVLT",
+    "paper_url": "https://ieeexplore.ieee.org/document/11284903",
+    "sent_at": "2026-06-17T06:27:31.168295+00:00"
+  },
+  "771f8a4190c91f44": {
+    "title": "FreqTrack",
+    "paper_url": "https://arxiv.org/abs/2604.14526",
+    "sent_at": "2026-06-17T06:27:31.168323+00:00"
   }
 }
