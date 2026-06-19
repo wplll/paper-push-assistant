@@ -368,5 +368,15 @@
     "title": "QSTNet",
     "paper_url": "https://ieeexplore.ieee.org/document/11270003",
     "sent_at": "2026-06-18T06:10:30.370773+00:00"
+  },
+  "a6c5a238af1a4f39": {
+    "title": "FMTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11134499",
+    "sent_at": "2026-06-19T06:31:21.459453+00:00"
+  },
+  "5f1bfee5fa16bab9": {
+    "title": "MCIT",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225014304",
+    "sent_at": "2026-06-19T06:31:21.459475+00:00"
   }
 }
