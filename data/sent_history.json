@@ -378,5 +378,15 @@
     "title": "MCIT",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225014304",
     "sent_at": "2026-06-19T06:31:21.459475+00:00"
+  },
+  "31246137e12bc139": {
+    "title": "MAT",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S1566253525000132",
+    "sent_at": "2026-06-20T05:43:53.687494+00:00"
+  },
+  "8d60fe428ce8667f": {
+    "title": "OneTrackerV2",
+    "paper_url": "https://arxiv.org/abs/2605.03716",
+    "sent_at": "2026-06-20T05:43:53.687512+00:00"
   }
 }
