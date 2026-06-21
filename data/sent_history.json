@@ -388,5 +388,15 @@
     "title": "OneTrackerV2",
     "paper_url": "https://arxiv.org/abs/2605.03716",
     "sent_at": "2026-06-20T05:43:53.687512+00:00"
+  },
+  "2640ff414a3fcc3e": {
+    "title": "Uni-MDTrack",
+    "paper_url": "https://arxiv.org/abs/2603.14452",
+    "sent_at": "2026-06-21T06:18:37.143687+00:00"
+  },
+  "a51631a19568307f": {
+    "title": "VLHTrack",
+    "paper_url": "https://arxiv.org/abs/2606.09167",
+    "sent_at": "2026-06-21T06:18:37.143710+00:00"
   }
 }
