@@ -398,5 +398,15 @@
     "title": "VLHTrack",
     "paper_url": "https://arxiv.org/abs/2606.09167",
     "sent_at": "2026-06-21T06:18:37.143710+00:00"
+  },
+  "ed69272a92b9b1b9": {
+    "title": "SpectralTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11007172",
+    "sent_at": "2026-06-22T06:41:13.808781+00:00"
+  },
+  "2f3709b79ad761a2": {
+    "title": "MV-RGBT & MoETrack",
+    "paper_url": "https://arxiv.org/abs/2405.00168",
+    "sent_at": "2026-06-22T06:41:13.808804+00:00"
   }
 }
