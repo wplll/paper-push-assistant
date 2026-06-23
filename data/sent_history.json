@@ -408,5 +408,15 @@
     "title": "MV-RGBT & MoETrack",
     "paper_url": "https://arxiv.org/abs/2405.00168",
     "sent_at": "2026-06-22T06:41:13.808804+00:00"
+  },
+  "28a77de1191bde27": {
+    "title": "Omni Survey for Multimodality Analysis in Visual Object Tracking",
+    "paper_url": "https://arxiv.org/abs/2508.13000",
+    "sent_at": "2026-06-23T05:15:02.224936+00:00"
+  },
+  "49561e37be0c9403": {
+    "title": "DCVLT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11462109",
+    "sent_at": "2026-06-23T05:15:02.224955+00:00"
   }
 }
