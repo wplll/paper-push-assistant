@@ -418,5 +418,15 @@
     "title": "DCVLT",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11462109",
     "sent_at": "2026-06-23T05:15:02.224955+00:00"
+  },
+  "805a771ba5a02145": {
+    "title": "4DVLT",
+    "paper_url": "https://arxiv.org/abs/2606.22631",
+    "sent_at": "2026-06-24T05:11:55.893785+00:00"
+  },
+  "fd19dae9251f5882": {
+    "title": "MPVLT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11387955",
+    "sent_at": "2026-06-24T05:11:55.893810+00:00"
   }
 }
