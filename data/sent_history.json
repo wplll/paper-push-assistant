@@ -428,5 +428,15 @@
     "title": "MPVLT",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11387955",
     "sent_at": "2026-06-24T05:11:55.893810+00:00"
+  },
+  "5c95f5ed75154565": {
+    "title": "ReasoningTrack",
+    "paper_url": "https://arxiv.org/abs/2508.05221",
+    "sent_at": "2026-06-25T05:15:53.870882+00:00"
+  },
+  "ee777669c1f7397b": {
+    "title": "ATCTrack",
+    "paper_url": "https://arxiv.org/abs/2507.19875",
+    "sent_at": "2026-06-25T05:15:53.870899+00:00"
   }
 }
