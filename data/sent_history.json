@@ -438,5 +438,15 @@
     "title": "ATCTrack",
     "paper_url": "https://arxiv.org/abs/2507.19875",
     "sent_at": "2026-06-25T05:15:53.870899+00:00"
+  },
+  "fd8edc0543a5466f": {
+    "title": "USS",
+    "paper_url": "https://arxiv.org/abs/2606.25880",
+    "sent_at": "2026-06-26T05:38:25.205018+00:00"
+  },
+  "887cc7ee6b5397c1": {
+    "title": "R1-Track",
+    "paper_url": "https://arxiv.org/abs/2506.21980",
+    "sent_at": "2026-06-26T05:38:25.205041+00:00"
   }
 }
