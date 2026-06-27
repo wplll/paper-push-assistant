@@ -448,5 +448,15 @@
     "title": "R1-Track",
     "paper_url": "https://arxiv.org/abs/2506.21980",
     "sent_at": "2026-06-26T05:38:25.205041+00:00"
+  },
+  "3ebba6c4138ea3a9": {
+    "title": "APRTrack",
+    "paper_url": "https://arxiv.org/abs/2606.26455",
+    "sent_at": "2026-06-27T05:04:14.081140+00:00"
+  },
+  "44a6bdf0643c36b8": {
+    "title": "DUTrack",
+    "paper_url": "https://arxiv.org/abs/2503.06621",
+    "sent_at": "2026-06-27T05:04:14.081165+00:00"
   }
 }
