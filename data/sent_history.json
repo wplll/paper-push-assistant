@@ -458,5 +458,15 @@
     "title": "DUTrack",
     "paper_url": "https://arxiv.org/abs/2503.06621",
     "sent_at": "2026-06-27T05:04:14.081165+00:00"
+  },
+  "1b5ff9be37a2148c": {
+    "title": "RELTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0306457326003663",
+    "sent_at": "2026-06-28T05:45:02.090116+00:00"
+  },
+  "3a1ae8b6fd38285a": {
+    "title": "UW-COT220 & VL-SAM2",
+    "paper_url": "https://arxiv.org/abs/2409.16902",
+    "sent_at": "2026-06-28T05:45:02.090136+00:00"
   }
 }
