@@ -468,5 +468,15 @@
     "title": "UW-COT220 & VL-SAM2",
     "paper_url": "https://arxiv.org/abs/2409.16902",
     "sent_at": "2026-06-28T05:45:02.090136+00:00"
+  },
+  "6d259b25994c6f5b": {
+    "title": "CTVLT",
+    "paper_url": "https://arxiv.org/abs/2412.19648",
+    "sent_at": "2026-06-29T06:05:26.139217+00:00"
+  },
+  "297606f133ba8cb1": {
+    "title": "CRSOT",
+    "paper_url": "https://arxiv.org/abs/2401.02826",
+    "sent_at": "2026-06-29T06:05:26.139241+00:00"
   }
 }
