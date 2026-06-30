@@ -478,5 +478,15 @@
     "title": "CRSOT",
     "paper_url": "https://arxiv.org/abs/2401.02826",
     "sent_at": "2026-06-29T06:05:26.139241+00:00"
+  },
+  "4512bfc87d5cf813": {
+    "title": "PMFNet",
+    "paper_url": "https://link.springer.com/article/10.1007/s00371-026-04520-z",
+    "sent_at": "2026-06-30T05:17:39.281485+00:00"
+  },
+  "c22ca854fea4be75": {
+    "title": "CEUTrack & COESOT",
+    "paper_url": "https://arxiv.org/abs/2211.11010",
+    "sent_at": "2026-06-30T05:17:39.281513+00:00"
   }
 }
