@@ -488,5 +488,15 @@
     "title": "CEUTrack & COESOT",
     "paper_url": "https://arxiv.org/abs/2211.11010",
     "sent_at": "2026-06-30T05:17:39.281513+00:00"
+  },
+  "b549751b00a7d89a": {
+    "title": "Dynamic Parsing and Updating Natural Language Specification using VLMs for Robust Vision-Language Tracking",
+    "paper_url": "https://arxiv.org/abs/2606.29357",
+    "sent_at": "2026-07-01T05:54:39.875511+00:00"
+  },
+  "7b0d19500359edef": {
+    "title": "SFTrack",
+    "paper_url": "https://arxiv.org/abs/2505.12903",
+    "sent_at": "2026-07-01T05:54:39.875533+00:00"
   }
 }
