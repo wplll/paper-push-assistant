@@ -498,5 +498,15 @@
     "title": "SFTrack",
     "paper_url": "https://arxiv.org/abs/2505.12903",
     "sent_at": "2026-07-01T05:54:39.875533+00:00"
+  },
+  "2f94adb1513de3ef": {
+    "title": "Adversarial Attack for RGB-Event based Visual Object Tracking",
+    "paper_url": "https://arxiv.org/abs/2504.14423",
+    "sent_at": "2026-07-02T05:10:02.794509+00:00"
+  },
+  "0d1d1e31baf7e7ef": {
+    "title": "HDETrack V2",
+    "paper_url": "https://arxiv.org/abs/2502.05574",
+    "sent_at": "2026-07-02T05:10:02.794529+00:00"
   }
 }
