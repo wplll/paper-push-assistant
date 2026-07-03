@@ -508,5 +508,15 @@
     "title": "HDETrack V2",
     "paper_url": "https://arxiv.org/abs/2502.05574",
     "sent_at": "2026-07-02T05:10:02.794529+00:00"
+  },
+  "69bc7cfc2e863e70": {
+    "title": "DFD-CLIP",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11558523",
+    "sent_at": "2026-07-03T04:57:42.844775+00:00"
+  },
+  "358d0900456420c7": {
+    "title": "AMTrack",
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38195",
+    "sent_at": "2026-07-03T04:57:42.844800+00:00"
   }
 }
