@@ -548,5 +548,15 @@
     "title": "PromptTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11397188",
     "sent_at": "2026-07-06T05:36:54.355562+00:00"
+  },
+  "4d16dba79e43f055": {
+    "title": "Robust RGB-T Tracking via Multi-Feature Response Adaptive Fusion and Dynamic Selection Recovery",
+    "paper_url": "https://ieeexplore.ieee.org/document/11112641",
+    "sent_at": "2026-07-07T05:07:39.617352+00:00"
+  },
+  "d002889a4ee8396a": {
+    "title": "Gated side adapters with memory-efficient fine tuning for RGB-T tracking",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S2405959526000226",
+    "sent_at": "2026-07-07T05:07:39.617380+00:00"
   }
 }
