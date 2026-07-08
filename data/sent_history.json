@@ -558,5 +558,15 @@
     "title": "Gated side adapters with memory-efficient fine tuning for RGB-T tracking",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S2405959526000226",
     "sent_at": "2026-07-07T05:07:39.617380+00:00"
+  },
+  "9380c5f6429fc575": {
+    "title": "ProMoT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11363450",
+    "sent_at": "2026-07-08T04:33:10.487706+00:00"
+  },
+  "a4d08a7aea9a9381": {
+    "title": "AMVTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11248958",
+    "sent_at": "2026-07-08T04:33:10.487725+00:00"
   }
 }
