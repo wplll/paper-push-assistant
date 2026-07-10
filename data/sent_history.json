@@ -568,5 +568,15 @@
     "title": "AMVTrack",
     "paper_url": "https://ieeexplore.ieee.org/document/11248958",
     "sent_at": "2026-07-08T04:33:10.487725+00:00"
+  },
+  "54d026457dd5dab0": {
+    "title": "MM-UAV",
+    "paper_url": "https://arxiv.org/abs/2511.18344",
+    "sent_at": "2026-07-10T05:08:33.667467+00:00"
+  },
+  "13d345a102ddaa8b": {
+    "title": "RDTTrack & RGBDT500",
+    "paper_url": "https://arxiv.org/abs/2509.24741",
+    "sent_at": "2026-07-10T05:08:33.667492+00:00"
   }
 }
