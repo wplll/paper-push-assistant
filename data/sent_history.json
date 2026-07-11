@@ -578,5 +578,15 @@
     "title": "RDTTrack & RGBDT500",
     "paper_url": "https://arxiv.org/abs/2509.24741",
     "sent_at": "2026-07-10T05:08:33.667492+00:00"
+  },
+  "9ae25bbd0ddb194d": {
+    "title": "FlexTrack",
+    "paper_url": "https://arxiv.org/abs/2507.05899",
+    "sent_at": "2026-07-11T04:29:11.230179+00:00"
+  },
+  "c97340491d152131": {
+    "title": "STTrack",
+    "paper_url": "https://arxiv.org/abs/2412.15691",
+    "sent_at": "2026-07-11T04:29:11.230200+00:00"
   }
 }
