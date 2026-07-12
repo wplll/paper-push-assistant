@@ -588,5 +588,15 @@
     "title": "STTrack",
     "paper_url": "https://arxiv.org/abs/2412.15691",
     "sent_at": "2026-07-11T04:29:11.230200+00:00"
+  },
+  "40ea7d9c5366e9c2": {
+    "title": "CASS",
+    "paper_url": "https://ieeexplore.ieee.org/document/11586086",
+    "sent_at": "2026-07-12T04:40:48.615115+00:00"
+  },
+  "0b8c9814d529b837": {
+    "title": "HyMamba",
+    "paper_url": "https://arxiv.org/abs/2509.08265",
+    "sent_at": "2026-07-12T04:40:48.615142+00:00"
   }
 }
