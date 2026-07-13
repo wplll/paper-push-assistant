@@ -598,5 +598,15 @@
     "title": "HyMamba",
     "paper_url": "https://arxiv.org/abs/2509.08265",
     "sent_at": "2026-07-12T04:40:48.615142+00:00"
+  },
+  "0258163030f847a4": {
+    "title": "SVLTrack",
+    "paper_url": "https://arxiv.org/abs/2605.07064",
+    "sent_at": "2026-07-13T04:47:19.175665+00:00"
+  },
+  "036347f343bd2386": {
+    "title": "SOIBench",
+    "paper_url": "https://arxiv.org/abs/2508.09524",
+    "sent_at": "2026-07-13T04:47:19.175682+00:00"
   }
 }
