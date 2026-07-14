@@ -608,5 +608,15 @@
     "title": "SOIBench",
     "paper_url": "https://arxiv.org/abs/2508.09524",
     "sent_at": "2026-07-13T04:47:19.175682+00:00"
+  },
+  "7e0bd0efc5aeaf53": {
+    "title": "UITrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11209477",
+    "sent_at": "2026-07-14T04:17:50.394873+00:00"
+  },
+  "39542ee381543c0b": {
+    "title": "Mono3DVLT",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf",
+    "sent_at": "2026-07-14T04:17:50.394899+00:00"
   }
 }
