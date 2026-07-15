@@ -618,5 +618,15 @@
     "title": "Mono3DVLT",
     "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf",
     "sent_at": "2026-07-14T04:17:50.394899+00:00"
+  },
+  "daabbdddd65f5836": {
+    "title": "SAKTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/10947290",
+    "sent_at": "2026-07-15T04:17:33.652152+00:00"
+  },
+  "317d7e2b5b3620d8": {
+    "title": "AVLTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/10922151",
+    "sent_at": "2026-07-15T04:17:33.652175+00:00"
   }
 }
