@@ -628,5 +628,15 @@
     "title": "AVLTrack",
     "paper_url": "https://ieeexplore.ieee.org/document/10922151",
     "sent_at": "2026-07-15T04:17:33.652175+00:00"
+  },
+  "a3edd1730f3349e3": {
+    "title": "JEAT",
+    "paper_url": "https://arxiv.org/abs/2607.11646",
+    "sent_at": "2026-07-16T04:26:22.158177+00:00"
+  },
+  "8bf0ae3da8630bb3": {
+    "title": "CMPTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S1051200426005117",
+    "sent_at": "2026-07-16T04:26:22.158199+00:00"
   }
 }
