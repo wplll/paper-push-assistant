@@ -648,5 +648,15 @@
     "title": "HMFF",
     "paper_url": "https://link.springer.com/article/10.1007/s11760-025-04672-w",
     "sent_at": "2026-07-17T04:26:04.801858+00:00"
+  },
+  "3115200f5a36d4ac": {
+    "title": "AE-UAV",
+    "paper_url": "https://arxiv.org/abs/2607.14726",
+    "sent_at": "2026-07-18T04:15:12.264838+00:00"
+  },
+  "7f88ad960136cdc2": {
+    "title": "CosFly-VLA",
+    "paper_url": "https://arxiv.org/abs/2607.15004",
+    "sent_at": "2026-07-18T04:15:12.264856+00:00"
   }
 }
