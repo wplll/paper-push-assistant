@@ -658,5 +658,15 @@
     "title": "CosFly-VLA",
     "paper_url": "https://arxiv.org/abs/2607.15004",
     "sent_at": "2026-07-18T04:15:12.264856+00:00"
+  },
+  "69fbc62e0271adec": {
+    "title": "MCINet",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0950705125013826",
+    "sent_at": "2026-07-19T04:36:25.693930+00:00"
+  },
+  "286470d4056c1833": {
+    "title": "ACAttack",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html",
+    "sent_at": "2026-07-19T04:36:25.693954+00:00"
   }
 }
