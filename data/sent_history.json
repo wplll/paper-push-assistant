@@ -668,5 +668,15 @@
     "title": "ACAttack",
     "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html",
     "sent_at": "2026-07-19T04:36:25.693954+00:00"
+  },
+  "d28487b764fbe3d4": {
+    "title": "HFDAE",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11084657",
+    "sent_at": "2026-07-20T04:53:24.096111+00:00"
+  },
+  "c5360607c266b03e": {
+    "title": "MAP",
+    "paper_url": "https://link.springer.com/article/10.1007/s44443-025-00142-y",
+    "sent_at": "2026-07-20T04:53:24.096131+00:00"
   }
 }
