@@ -678,5 +678,15 @@
     "title": "MAP",
     "paper_url": "https://link.springer.com/article/10.1007/s44443-025-00142-y",
     "sent_at": "2026-07-20T04:53:24.096131+00:00"
+  },
+  "3af0b506e8561385": {
+    "title": "MRTTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234",
+    "sent_at": "2026-07-21T04:33:05.011042+00:00"
+  },
+  "5ca196e0cb813b62": {
+    "title": "Cross-modal information interaction of binocular predictive networks for RGBT tracking",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S1051200425004956",
+    "sent_at": "2026-07-21T04:33:05.011066+00:00"
   }
 }
