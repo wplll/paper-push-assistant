@@ -688,5 +688,15 @@
     "title": "Cross-modal information interaction of binocular predictive networks for RGBT tracking",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S1051200425004956",
     "sent_at": "2026-07-21T04:33:05.011066+00:00"
+  },
+  "125d13d94487b5fc": {
+    "title": "CAFormer",
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/32938",
+    "sent_at": "2026-07-22T04:35:09.729890+00:00"
+  },
+  "9ba3750215cce831": {
+    "title": "TAAT",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0167865525001229",
+    "sent_at": "2026-07-22T04:35:09.729912+00:00"
   }
 }
