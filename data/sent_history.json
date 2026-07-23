@@ -698,5 +698,15 @@
     "title": "TAAT",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0167865525001229",
     "sent_at": "2026-07-22T04:35:09.729912+00:00"
+  },
+  "7d3cb2ebeb3908a5": {
+    "title": "CM-UOT & SARLA",
+    "paper_url": "https://arxiv.org/abs/2607.18768",
+    "sent_at": "2026-07-23T04:35:00.973752+00:00"
+  },
+  "cc4e7bfd52b74e80": {
+    "title": "NOT-156",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10938642",
+    "sent_at": "2026-07-23T04:35:00.973812+00:00"
   }
 }
