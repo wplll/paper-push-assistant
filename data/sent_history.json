@@ -708,5 +708,15 @@
     "title": "NOT-156",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10938642",
     "sent_at": "2026-07-23T04:35:00.973812+00:00"
+  },
+  "0bde7227147447b6": {
+    "title": "SDMoEA",
+    "paper_url": "https://arxiv.org/abs/2603.13719",
+    "sent_at": "2026-07-24T04:33:20.494944+00:00"
+  },
+  "8d180527db3cc9da": {
+    "title": "SMSTracker",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html",
+    "sent_at": "2026-07-24T04:33:20.494968+00:00"
   }
 }
