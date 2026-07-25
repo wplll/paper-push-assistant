@@ -718,5 +718,15 @@
     "title": "SMSTracker",
     "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html",
     "sent_at": "2026-07-24T04:33:20.494968+00:00"
+  },
+  "5ab12aefd0ff1ea7": {
+    "title": "M3Track",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10949728",
+    "sent_at": "2026-07-25T04:28:59.726315+00:00"
+  },
+  "3cf6982c50c91919": {
+    "title": "TransCMD",
+    "paper_url": "https://ieeexplore.ieee.org/document/10943265",
+    "sent_at": "2026-07-25T04:28:59.726339+00:00"
   }
 }
