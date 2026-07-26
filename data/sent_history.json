@@ -728,5 +728,15 @@
     "title": "TransCMD",
     "paper_url": "https://ieeexplore.ieee.org/document/10943265",
     "sent_at": "2026-07-25T04:28:59.726339+00:00"
+  },
+  "14f705727a9509f0": {
+    "title": "ReferTrack",
+    "paper_url": "https://arxiv.org/abs/2607.20061",
+    "sent_at": "2026-07-26T04:42:52.696627+00:00"
+  },
+  "00f46947de20f6d9": {
+    "title": "DRGBT-1K",
+    "paper_url": "https://arxiv.org/abs/2607.19772",
+    "sent_at": "2026-07-26T04:42:52.696650+00:00"
   }
 }
