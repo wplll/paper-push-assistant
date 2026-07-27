@@ -738,5 +738,15 @@
     "title": "DRGBT-1K",
     "paper_url": "https://arxiv.org/abs/2607.19772",
     "sent_at": "2026-07-26T04:42:52.696650+00:00"
+  },
+  "abdb429a3b5ba6bb": {
+    "title": "HCLT",
+    "paper_url": "https://www.mdpi.com/2079-9292/15/11/2276",
+    "sent_at": "2026-07-27T04:52:43.991822+00:00"
+  },
+  "f6efb003dd8393e5": {
+    "title": "DMPGTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0923596526001062",
+    "sent_at": "2026-07-27T04:52:43.991845+00:00"
   }
 }
