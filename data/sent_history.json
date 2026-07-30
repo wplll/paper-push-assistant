@@ -768,5 +768,15 @@
     "title": "GVLTrack",
     "paper_url": "https://dl.acm.org/doi/10.1145/3803863",
     "sent_at": "2026-07-29T04:31:33.907350+00:00"
+  },
+  "69a8b05d25f1a5df": {
+    "title": "TDTrack",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-981-92-3531-5_27",
+    "sent_at": "2026-07-30T04:21:58.956199+00:00"
+  },
+  "ed5751d310264d1b": {
+    "title": "FMATrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0925231226014803",
+    "sent_at": "2026-07-30T04:21:58.956229+00:00"
   }
 }
