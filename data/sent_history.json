@@ -778,5 +778,15 @@
     "title": "FMATrack",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0925231226014803",
     "sent_at": "2026-07-30T04:21:58.956229+00:00"
+  },
+  "a2f291b64fc8fc3f": {
+    "title": "SATATrack",
+    "paper_url": "https://arxiv.org/abs/2607.26511",
+    "sent_at": "2026-07-31T04:43:39.410215+00:00"
+  },
+  "174e7888b374e75f": {
+    "title": "HRPG",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11553422",
+    "sent_at": "2026-07-31T04:43:39.410242+00:00"
   }
 }
