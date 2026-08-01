@@ -788,5 +788,15 @@
     "title": "HRPG",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11553422",
     "sent_at": "2026-07-31T04:43:39.410242+00:00"
+  },
+  "66fd0ec8196d8444": {
+    "title": "GTUTrack",
+    "paper_url": "https://www.mdpi.com/2072-4292/18/11/1817",
+    "sent_at": "2026-08-01T04:36:21.975024+00:00"
+  },
+  "b752ef7eebbfc439": {
+    "title": "PMATrack",
+    "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/38417",
+    "sent_at": "2026-08-01T04:36:21.975047+00:00"
   }
 }
