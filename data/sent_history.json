@@ -798,5 +798,15 @@
     "title": "PMATrack",
     "paper_url": "https://cvpr.thecvf.com/virtual/2026/poster/38417",
     "sent_at": "2026-08-01T04:36:21.975047+00:00"
+  },
+  "3b14ef953e08b69f": {
+    "title": "CoReTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417426009942",
+    "sent_at": "2026-08-02T04:39:19.807733+00:00"
+  },
+  "599fb53708195c7f": {
+    "title": "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11417308",
+    "sent_at": "2026-08-02T04:39:19.807756+00:00"
   }
 }
