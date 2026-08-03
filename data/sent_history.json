@@ -808,5 +808,15 @@
     "title": "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11417308",
     "sent_at": "2026-08-02T04:39:19.807756+00:00"
+  },
+  "9c87fdf35188c470": {
+    "title": "MSD",
+    "paper_url": "https://ieeexplore.ieee.org/document/11415354",
+    "sent_at": "2026-08-03T04:48:07.973869+00:00"
+  },
+  "5fb17ac869f85684": {
+    "title": "CAMT",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0925231225032746",
+    "sent_at": "2026-08-03T04:48:07.973891+00:00"
   }
 }
