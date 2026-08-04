@@ -818,5 +818,15 @@
     "title": "CAMT",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0925231225032746",
     "sent_at": "2026-08-03T04:48:07.973891+00:00"
+  },
+  "a81366ad5a55039a": {
+    "title": "DTP-Track",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11622554",
+    "sent_at": "2026-08-04T04:32:55.246738+00:00"
+  },
+  "5178846eecd275cb": {
+    "title": "MoKA-HP",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225028358",
+    "sent_at": "2026-08-04T04:32:55.246759+00:00"
   }
 }
