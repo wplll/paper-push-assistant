@@ -828,5 +828,15 @@
     "title": "MoKA-HP",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225028358",
     "sent_at": "2026-08-04T04:32:55.246759+00:00"
+  },
+  "4bada7b95c364f23": {
+    "title": "TA-HyperNet",
+    "paper_url": "https://arxiv.org/abs/2608.01807",
+    "sent_at": "2026-08-05T04:29:52.882586+00:00"
+  },
+  "565175bf106916cb": {
+    "title": "DTrack",
+    "paper_url": "https://arxiv.org/abs/2608.01488",
+    "sent_at": "2026-08-05T04:29:52.882603+00:00"
   }
 }
