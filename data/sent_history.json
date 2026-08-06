@@ -838,5 +838,15 @@
     "title": "DTrack",
     "paper_url": "https://arxiv.org/abs/2608.01488",
     "sent_at": "2026-08-05T04:29:52.882603+00:00"
+  },
+  "a94ab96623b9d977": {
+    "title": "PoATrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11505919",
+    "sent_at": "2026-08-06T04:31:54.420295+00:00"
+  },
+  "2f8f870f9a6b0fbd": {
+    "title": "UniBench300",
+    "paper_url": "https://arxiv.org/abs/2508.10655",
+    "sent_at": "2026-08-06T04:31:54.420312+00:00"
   }
 }
