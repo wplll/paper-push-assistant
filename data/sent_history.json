@@ -848,5 +848,15 @@
     "title": "UniBench300",
     "paper_url": "https://arxiv.org/abs/2508.10655",
     "sent_at": "2026-08-06T04:31:54.420312+00:00"
+  },
+  "55be2855f6137084": {
+    "title": "UM-ODTrack",
+    "paper_url": "https://arxiv.org/abs/2507.20177",
+    "sent_at": "2026-08-07T04:03:54.791803+00:00"
+  },
+  "9c05ef2affd57258": {
+    "title": "XTrack",
+    "paper_url": "https://arxiv.org/abs/2405.17773",
+    "sent_at": "2026-08-07T04:03:54.791832+00:00"
   }
 }
