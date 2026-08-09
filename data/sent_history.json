@@ -868,5 +868,15 @@
     "title": "UASTrack",
     "paper_url": "https://arxiv.org/abs/2502.18220",
     "sent_at": "2026-08-08T03:01:07.962368+00:00"
+  },
+  "f0971c319fe67e03": {
+    "title": "FITrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11631736",
+    "sent_at": "2026-08-09T03:08:21.970216+00:00"
+  },
+  "9ce4fea1f815117b": {
+    "title": "LightFC-X",
+    "paper_url": "https://arxiv.org/abs/2502.18143",
+    "sent_at": "2026-08-09T03:08:21.970239+00:00"
   }
 }
