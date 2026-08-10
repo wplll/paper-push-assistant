@@ -878,5 +878,15 @@
     "title": "LightFC-X",
     "paper_url": "https://arxiv.org/abs/2502.18143",
     "sent_at": "2026-08-09T03:08:21.970239+00:00"
+  },
+  "2f9c07f5d5fedfb5": {
+    "title": "SUTrack",
+    "paper_url": "https://arxiv.org/abs/2412.19138",
+    "sent_at": "2026-08-10T03:19:07.713948+00:00"
+  },
+  "3a2c3fdca5f700f1": {
+    "title": "HEATTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11593902",
+    "sent_at": "2026-08-10T03:19:07.713968+00:00"
   }
 }
