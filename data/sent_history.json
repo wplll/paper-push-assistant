@@ -888,5 +888,15 @@
     "title": "HEATTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11593902",
     "sent_at": "2026-08-10T03:19:07.713968+00:00"
+  },
+  "6396fcabe8f1dfb7": {
+    "title": "GPTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11638211",
+    "sent_at": "2026-08-11T03:11:51.215425+00:00"
+  },
+  "d6fa2244e35dda81": {
+    "title": "AnyTrack",
+    "paper_url": "https://arxiv.org/abs/2608.06773",
+    "sent_at": "2026-08-11T03:11:51.215448+00:00"
   }
 }
