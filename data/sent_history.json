@@ -898,5 +898,15 @@
     "title": "AnyTrack",
     "paper_url": "https://arxiv.org/abs/2608.06773",
     "sent_at": "2026-08-11T03:11:51.215448+00:00"
+  },
+  "7ec9710db3de0f09": {
+    "title": "TMMSAM2",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11597947",
+    "sent_at": "2026-08-12T03:30:00.682109+00:00"
+  },
+  "cd71878b9d034564": {
+    "title": "EA-Track",
+    "paper_url": "https://ieeexplore.ieee.org/document/11464759/",
+    "sent_at": "2026-08-12T03:30:00.682154+00:00"
   }
 }
