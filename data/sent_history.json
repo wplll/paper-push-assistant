@@ -908,5 +908,15 @@
     "title": "EA-Track",
     "paper_url": "https://ieeexplore.ieee.org/document/11464759/",
     "sent_at": "2026-08-12T03:30:00.682154+00:00"
+  },
+  "f9c5e932ab1bf789": {
+    "title": "S3T-FFS",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11367018",
+    "sent_at": "2026-08-13T03:33:48.133983+00:00"
+  },
+  "d56637bbdd5d61d5": {
+    "title": "MMOT",
+    "paper_url": "https://arxiv.org/abs/2510.12565",
+    "sent_at": "2026-08-13T03:33:48.134006+00:00"
   }
 }
