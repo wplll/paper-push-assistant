@@ -918,5 +918,15 @@
     "title": "MMOT",
     "paper_url": "https://arxiv.org/abs/2510.12565",
     "sent_at": "2026-08-13T03:33:48.134006+00:00"
+  },
+  "0807b100c88b18a9": {
+    "title": "MSP-Net",
+    "paper_url": "https://arxiv.org/abs/2608.09575",
+    "sent_at": "2026-08-14T03:30:34.152954+00:00"
+  },
+  "ca4089d71e8436fd": {
+    "title": "FTTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11643798",
+    "sent_at": "2026-08-14T03:30:34.152983+00:00"
   }
 }
