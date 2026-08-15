@@ -928,5 +928,15 @@
     "title": "FTTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11643798",
     "sent_at": "2026-08-14T03:30:34.152983+00:00"
+  },
+  "de3523317f5696a4": {
+    "title": "SeDCP",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11644814",
+    "sent_at": "2026-08-15T02:19:24.150380+00:00"
+  },
+  "4d0decd3bace7c44": {
+    "title": "MSITrack",
+    "paper_url": "https://arxiv.org/abs/2510.06619",
+    "sent_at": "2026-08-15T02:19:24.150395+00:00"
   }
 }
