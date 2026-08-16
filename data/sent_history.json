@@ -938,5 +938,15 @@
     "title": "MSITrack",
     "paper_url": "https://arxiv.org/abs/2510.06619",
     "sent_at": "2026-08-15T02:19:24.150395+00:00"
+  },
+  "96bb3e156cfda55c": {
+    "title": "SUIT",
+    "paper_url": "https://arxiv.org/abs/2508.07250",
+    "sent_at": "2026-08-16T02:35:00.567341+00:00"
+  },
+  "04d39e86f8676574": {
+    "title": "SonarT165",
+    "paper_url": "https://arxiv.org/abs/2504.15609",
+    "sent_at": "2026-08-16T02:35:00.567408+00:00"
   }
 }
