@@ -948,5 +948,15 @@
     "title": "SonarT165",
     "paper_url": "https://arxiv.org/abs/2504.15609",
     "sent_at": "2026-08-16T02:35:00.567408+00:00"
+  },
+  "abfca68a90d891f1": {
+    "title": "UniRTL",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0031320324007350",
+    "sent_at": "2026-08-17T02:35:32.794639+00:00"
+  },
+  "fdef817d8c16bb01": {
+    "title": "VT2V",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0950705125019033",
+    "sent_at": "2026-08-17T02:35:32.794657+00:00"
   }
 }
