@@ -958,5 +958,15 @@
     "title": "VT2V",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0950705125019033",
     "sent_at": "2026-08-17T02:35:32.794657+00:00"
+  },
+  "65d0f9f2d70f0a32": {
+    "title": "PTPTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11653456",
+    "sent_at": "2026-08-18T02:30:34.272209+00:00"
+  },
+  "8afde713a7b76838": {
+    "title": "RAMR",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425029926",
+    "sent_at": "2026-08-18T02:30:34.272276+00:00"
   }
 }
