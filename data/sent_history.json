@@ -968,5 +968,15 @@
     "title": "RAMR",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425029926",
     "sent_at": "2026-08-18T02:30:34.272276+00:00"
+  },
+  "7cf2f049e5b471db": {
+    "title": "UBATrack",
+    "paper_url": "https://arxiv.org/abs/2601.14799",
+    "sent_at": "2026-08-19T02:32:29.335507+00:00"
+  },
+  "c19e123fce8a51fb": {
+    "title": "SATA",
+    "paper_url": "https://arxiv.org/abs/2511.19475",
+    "sent_at": "2026-08-19T02:32:29.335523+00:00"
   }
 }
