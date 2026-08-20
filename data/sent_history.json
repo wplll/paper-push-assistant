@@ -978,5 +978,15 @@
     "title": "SATA",
     "paper_url": "https://arxiv.org/abs/2511.19475",
     "sent_at": "2026-08-19T02:32:29.335523+00:00"
+  },
+  "88b71dcea866ca08": {
+    "title": "HyperTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11131287",
+    "sent_at": "2026-08-20T02:31:14.867394+00:00"
+  },
+  "7daed5bd3c95dd41": {
+    "title": "UBSTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/11007116",
+    "sent_at": "2026-08-20T02:31:14.867412+00:00"
   }
 }
