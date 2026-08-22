@@ -998,5 +998,15 @@
     "title": "HOPL",
     "paper_url": "https://dl.acm.org/doi/pdf/10.1145/3736581",
     "sent_at": "2026-08-21T02:37:36.012292+00:00"
+  },
+  "34d0260535323950": {
+    "title": "VL-METrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0893608026009640",
+    "sent_at": "2026-08-22T02:29:08.417440+00:00"
+  },
+  "86a2fb6920cf8026": {
+    "title": "Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL",
+    "paper_url": "https://arxiv.org/abs/2404.09857",
+    "sent_at": "2026-08-22T02:29:08.417459+00:00"
   }
 }
