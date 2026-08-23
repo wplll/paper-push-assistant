@@ -1008,5 +1008,15 @@
     "title": "Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL",
     "paper_url": "https://arxiv.org/abs/2404.09857",
     "sent_at": "2026-08-22T02:29:08.417459+00:00"
+  },
+  "4abec94b1f5c845c": {
+    "title": "UTPTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S003132032601616X",
+    "sent_at": "2026-08-23T02:37:37.077165+00:00"
+  },
+  "33872e234a1e3361": {
+    "title": "DynaMix-VLT",
+    "paper_url": "https://link.springer.com/article/10.1007/s11633-025-1605-x",
+    "sent_at": "2026-08-23T02:37:37.077187+00:00"
   }
 }
