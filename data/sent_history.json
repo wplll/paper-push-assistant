@@ -1018,5 +1018,15 @@
     "title": "DynaMix-VLT",
     "paper_url": "https://link.springer.com/article/10.1007/s11633-025-1605-x",
     "sent_at": "2026-08-23T02:37:37.077187+00:00"
+  },
+  "210111ac05ac21e5": {
+    "title": "CET-Track",
+    "paper_url": "https://link.springer.com/article/10.1007/s40747-026-02365-6",
+    "sent_at": "2026-08-24T02:38:11.058246+00:00"
+  },
+  "dfa0cbffd503eb00": {
+    "title": "TFBTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326012380",
+    "sent_at": "2026-08-24T02:38:11.058268+00:00"
   }
 }
