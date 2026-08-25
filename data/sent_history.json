@@ -1028,5 +1028,15 @@
     "title": "TFBTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326012380",
     "sent_at": "2026-08-24T02:38:11.058268+00:00"
+  },
+  "a22d48f0ae7ea86d": {
+    "title": "SwitchTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608026009895",
+    "sent_at": "2026-08-25T02:32:03.321563+00:00"
+  },
+  "99e72322ceb8b75f": {
+    "title": "TVT-Net",
+    "paper_url": "https://www.researchgate.net/publication/404945916_Foundation-Grounded_Heatmap_Conversion_for_Robust_Vision-Language_Tracking",
+    "sent_at": "2026-08-25T02:32:03.321589+00:00"
   }
 }
