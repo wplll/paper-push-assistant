@@ -1038,5 +1038,15 @@
     "title": "TVT-Net",
     "paper_url": "https://www.researchgate.net/publication/404945916_Foundation-Grounded_Heatmap_Conversion_for_Robust_Vision-Language_Tracking",
     "sent_at": "2026-08-25T02:32:03.321589+00:00"
+  },
+  "e3f755aef6bcedf7": {
+    "title": "SDTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0957417426011681",
+    "sent_at": "2026-08-26T02:40:14.611043+00:00"
+  },
+  "0cb6b9083cc1a3c3": {
+    "title": "ETS-VLTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S1047320326000817",
+    "sent_at": "2026-08-26T02:40:14.611065+00:00"
   }
 }
