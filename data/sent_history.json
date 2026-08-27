@@ -1048,5 +1048,15 @@
     "title": "ETS-VLTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S1047320326000817",
     "sent_at": "2026-08-26T02:40:14.611065+00:00"
+  },
+  "561d51a696e53910": {
+    "title": "TrAct",
+    "paper_url": "https://arxiv.org/abs/2608.24101",
+    "sent_at": "2026-08-27T11:13:04.643692+00:00"
+  },
+  "330e4742e4c6cef4": {
+    "title": "BSTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11660711",
+    "sent_at": "2026-08-27T11:13:04.643710+00:00"
   }
 }
