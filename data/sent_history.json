@@ -1058,5 +1058,15 @@
     "title": "BSTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11660711",
     "sent_at": "2026-08-27T11:13:04.643710+00:00"
+  },
+  "3e5a01044a5a7eb8": {
+    "title": "IWA",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11658928",
+    "sent_at": "2026-08-28T12:47:41.357555+00:00"
+  },
+  "f8212699ad858e51": {
+    "title": "ADTrack",
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38237",
+    "sent_at": "2026-08-28T12:47:41.357573+00:00"
   }
 }
