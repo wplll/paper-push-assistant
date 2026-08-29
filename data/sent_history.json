@@ -1068,5 +1068,15 @@
     "title": "ADTrack",
     "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38237",
     "sent_at": "2026-08-28T12:47:41.357573+00:00"
+  },
+  "7a7b8a127991dafc": {
+    "title": "Mg3DVLT-Net",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326017358",
+    "sent_at": "2026-08-29T07:53:57.124173+00:00"
+  },
+  "a419ae86133b88e7": {
+    "title": "HAT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11630165",
+    "sent_at": "2026-08-29T07:53:57.124195+00:00"
   }
 }
