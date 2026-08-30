@@ -1078,5 +1078,15 @@
     "title": "HAT",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11630165",
     "sent_at": "2026-08-29T07:53:57.124195+00:00"
+  },
+  "ca4129415b137079": {
+    "title": "UREPtrack",
+    "paper_url": "https://doi.org/10.1007/s00371-025-04309-6",
+    "sent_at": "2026-08-30T06:42:06.403610+00:00"
+  },
+  "51804fdaf3646b65": {
+    "title": "WTA",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf",
+    "sent_at": "2026-08-30T06:42:06.403633+00:00"
   }
 }
