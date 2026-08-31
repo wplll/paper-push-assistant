@@ -1088,5 +1088,15 @@
     "title": "WTA",
     "paper_url": "https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf",
     "sent_at": "2026-08-30T06:42:06.403633+00:00"
+  },
+  "d230a41a8fa862a3": {
+    "title": "DTTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326015669",
+    "sent_at": "2026-08-31T07:03:43.235743+00:00"
+  },
+  "5d99fb58a96be8ea": {
+    "title": "TCTracker",
+    "paper_url": "https://www.researchsquare.com/article/rs-9939783/v1",
+    "sent_at": "2026-08-31T07:03:43.235756+00:00"
   }
 }
