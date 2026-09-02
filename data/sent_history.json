@@ -1108,5 +1108,15 @@
     "title": "RGBT Tracking via Spatial Prior Feature Extraction for Attention",
     "paper_url": "https://link.springer.com/chapter/10.1007/978-981-95-8660-8_16",
     "sent_at": "2026-09-01T06:15:50.648297+00:00"
+  },
+  "2980424a3a1107f4": {
+    "title": "TextBridge-Track",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11672227",
+    "sent_at": "2026-09-02T05:51:26.629120+00:00"
+  },
+  "97794ffd9bcd61fe": {
+    "title": "LVTrack",
+    "paper_url": "https://arxiv.org/abs/2608.29126",
+    "sent_at": "2026-09-02T05:51:26.629138+00:00"
   }
 }
