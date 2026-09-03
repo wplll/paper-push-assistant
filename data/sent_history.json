@@ -1118,5 +1118,15 @@
     "title": "LVTrack",
     "paper_url": "https://arxiv.org/abs/2608.29126",
     "sent_at": "2026-09-02T05:51:26.629138+00:00"
+  },
+  "f70afdcd6ad17813": {
+    "title": "CAST",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326004607",
+    "sent_at": "2026-09-03T05:49:38.745938+00:00"
+  },
+  "49f965a91c3a4a86": {
+    "title": "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326002761",
+    "sent_at": "2026-09-03T05:49:38.745962+00:00"
   }
 }
