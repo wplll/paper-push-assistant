@@ -1128,5 +1128,15 @@
     "title": "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320326002761",
     "sent_at": "2026-09-03T05:49:38.745962+00:00"
+  },
+  "605d94ca16cc2452": {
+    "title": "TPMRI",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0950705126001966",
+    "sent_at": "2026-09-04T05:55:44.066056+00:00"
+  },
+  "72edc9d8e396b6e7": {
+    "title": "SFPT",
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37949",
+    "sent_at": "2026-09-04T05:55:44.066079+00:00"
   }
 }
