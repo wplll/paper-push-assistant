@@ -1138,5 +1138,15 @@
     "title": "SFPT",
     "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/37949",
     "sent_at": "2026-09-04T05:55:44.066079+00:00"
+  },
+  "b9bbc821298cb92d": {
+    "title": "DS4Net",
+    "paper_url": "https://dl.acm.org/doi/10.1145/3821537",
+    "sent_at": "2026-09-05T05:46:30.269782+00:00"
+  },
+  "d4bb8e5c3aa4b50f": {
+    "title": "MPANet",
+    "paper_url": "https://ieeexplore.ieee.org/document/11207526",
+    "sent_at": "2026-09-05T05:46:30.269809+00:00"
   }
 }
