@@ -1158,5 +1158,15 @@
     "title": "DTTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11595036",
     "sent_at": "2026-09-06T05:59:07.747062+00:00"
+  },
+  "b47436f56149a721": {
+    "title": "SRTrack",
+    "paper_url": "https://arxiv.org/abs/2508.17488",
+    "sent_at": "2026-09-07T06:08:03.174415+00:00"
+  },
+  "3717dd7ca006c946": {
+    "title": "MemVLT",
+    "paper_url": "https://openreview.net/pdf?id=ZK1CZXKgG5",
+    "sent_at": "2026-09-07T06:08:03.174436+00:00"
   }
 }
