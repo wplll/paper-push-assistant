@@ -1168,5 +1168,15 @@
     "title": "MemVLT",
     "paper_url": "https://openreview.net/pdf?id=ZK1CZXKgG5",
     "sent_at": "2026-09-07T06:08:03.174436+00:00"
+  },
+  "38fef62b98a4d2a3": {
+    "title": "SACATrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11672823",
+    "sent_at": "2026-09-08T05:59:15.298232+00:00"
+  },
+  "7a452df527e5b6a9": {
+    "title": "MambaVLT",
+    "paper_url": "https://arxiv.org/abs/2411.15459",
+    "sent_at": "2026-09-08T05:59:15.298249+00:00"
   }
 }
