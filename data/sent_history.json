@@ -1178,5 +1178,15 @@
     "title": "MambaVLT",
     "paper_url": "https://arxiv.org/abs/2411.15459",
     "sent_at": "2026-09-08T05:59:15.298249+00:00"
+  },
+  "9a4f8c9fe975b754": {
+    "title": "Generative Multi-Modal Tracking via Generative Feature Fusion and Stepwise Cascaded Prompting",
+    "paper_url": "https://ieeexplore.ieee.org/document/11673076",
+    "sent_at": "2026-09-09T06:00:12.622518+00:00"
+  },
+  "bb97305be04907fb": {
+    "title": "VFPTrack",
+    "paper_url": "https://arxiv.org/abs/2509.19733",
+    "sent_at": "2026-09-09T06:00:12.622545+00:00"
   }
 }
