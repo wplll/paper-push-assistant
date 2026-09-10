@@ -1188,5 +1188,15 @@
     "title": "VFPTrack",
     "paper_url": "https://arxiv.org/abs/2509.19733",
     "sent_at": "2026-09-09T06:00:12.622545+00:00"
+  },
+  "c00970e20dc970c1": {
+    "title": "CST-WM",
+    "paper_url": "https://arxiv.org/abs/2609.06302",
+    "sent_at": "2026-09-10T06:00:53.854034+00:00"
+  },
+  "74b0031834a3b8d8": {
+    "title": "AALTrack",
+    "paper_url": "https://doi.org/10.1109/TCSVT.2026.3730605",
+    "sent_at": "2026-09-10T06:00:53.854056+00:00"
   }
 }
