@@ -1198,5 +1198,15 @@
     "title": "AALTrack",
     "paper_url": "https://doi.org/10.1109/TCSVT.2026.3730605",
     "sent_at": "2026-09-10T06:00:53.854056+00:00"
+  },
+  "3da8b6ba360c1cb9": {
+    "title": "HucrTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11677293",
+    "sent_at": "2026-09-11T06:01:37.890210+00:00"
+  },
+  "0c9199e8e2ee98f7": {
+    "title": "STMT",
+    "paper_url": "https://ieeexplore.ieee.org/document/10589660",
+    "sent_at": "2026-09-11T06:01:37.890272+00:00"
   }
 }
