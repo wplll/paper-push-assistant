@@ -1208,5 +1208,15 @@
     "title": "STMT",
     "paper_url": "https://ieeexplore.ieee.org/document/10589660",
     "sent_at": "2026-09-11T06:01:37.890272+00:00"
+  },
+  "9c253f39fcfec7eb": {
+    "title": "QuadFusion",
+    "paper_url": "https://arxiv.org/abs/2503.11218",
+    "sent_at": "2026-09-12T05:48:43.407636+00:00"
+  },
+  "be31f02812beb585": {
+    "title": "CSSTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0031320325016681",
+    "sent_at": "2026-09-12T05:48:43.407656+00:00"
   }
 }
