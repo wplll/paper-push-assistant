@@ -1218,5 +1218,15 @@
     "title": "CSSTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0031320325016681",
     "sent_at": "2026-09-12T05:48:43.407656+00:00"
+  },
+  "0843690b0a0d4cbb": {
+    "title": "DeSSTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0957417426027582",
+    "sent_at": "2026-09-13T06:11:57.853389+00:00"
+  },
+  "7bf95dd9a8f80271": {
+    "title": "Visual Object Tracking across Modalities: Foundations, Methods, and Future Directions",
+    "paper_url": "https://link.springer.com/book/10.1007/978-981-95-3664-1",
+    "sent_at": "2026-09-13T06:11:57.853411+00:00"
   }
 }
