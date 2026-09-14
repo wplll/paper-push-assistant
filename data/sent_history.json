@@ -1228,5 +1228,15 @@
     "title": "Visual Object Tracking across Modalities: Foundations, Methods, and Future Directions",
     "paper_url": "https://link.springer.com/book/10.1007/978-981-95-3664-1",
     "sent_at": "2026-09-13T06:11:57.853411+00:00"
+  },
+  "d22053763e75fbe0": {
+    "title": "LGTrack",
+    "paper_url": "https://dl.acm.org/doi/10.1145/3757322",
+    "sent_at": "2026-09-14T06:18:57.881953+00:00"
+  },
+  "04c9408d3ccd3907": {
+    "title": "FE-TAP",
+    "paper_url": "https://arxiv.org/abs/2409.11953",
+    "sent_at": "2026-09-14T06:18:57.881970+00:00"
   }
 }
