@@ -1238,5 +1238,15 @@
     "title": "FE-TAP",
     "paper_url": "https://arxiv.org/abs/2409.11953",
     "sent_at": "2026-09-14T06:18:57.881970+00:00"
+  },
+  "20d40edff80dd482": {
+    "title": "PSMTrack",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-032-37335-9_4",
+    "sent_at": "2026-09-15T06:11:33.130352+00:00"
+  },
+  "79db39d6b09166b8": {
+    "title": "MambaEVT",
+    "paper_url": "https://arxiv.org/abs/2408.10487",
+    "sent_at": "2026-09-15T06:11:33.130369+00:00"
   }
 }
