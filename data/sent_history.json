@@ -1248,5 +1248,15 @@
     "title": "MambaEVT",
     "paper_url": "https://arxiv.org/abs/2408.10487",
     "sent_at": "2026-09-15T06:11:33.130369+00:00"
+  },
+  "4a49b7ca4709b3a8": {
+    "title": "eMoE-Tracker",
+    "paper_url": "https://arxiv.org/abs/2406.20024",
+    "sent_at": "2026-09-16T06:03:35.762205+00:00"
+  },
+  "4008aab4d0fb43c2": {
+    "title": "Mamba-FETrack",
+    "paper_url": "https://arxiv.org/abs/2404.18174",
+    "sent_at": "2026-09-16T06:03:35.762228+00:00"
   }
 }
