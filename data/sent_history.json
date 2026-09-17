@@ -1258,5 +1258,15 @@
     "title": "Mamba-FETrack",
     "paper_url": "https://arxiv.org/abs/2404.18174",
     "sent_at": "2026-09-16T06:03:35.762228+00:00"
+  },
+  "689634829ff94a07": {
+    "title": "LGCTrack",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19",
+    "sent_at": "2026-09-17T06:09:30.321060+00:00"
+  },
+  "0235c8bb6071fbf0": {
+    "title": "AMTTrack & FELT",
+    "paper_url": "https://arxiv.org/pdf/2403.05839v1",
+    "sent_at": "2026-09-17T06:09:30.321077+00:00"
   }
 }
