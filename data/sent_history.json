@@ -1268,5 +1268,15 @@
     "title": "AMTTrack & FELT",
     "paper_url": "https://arxiv.org/pdf/2403.05839v1",
     "sent_at": "2026-09-17T06:09:30.321077+00:00"
+  },
+  "ce882841bf259486": {
+    "title": "OCTA-SOT",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-032-37335-9_17",
+    "sent_at": "2026-09-18T05:56:43.371140+00:00"
+  },
+  "fe404104e7f091f4": {
+    "title": "MGAFTracker",
+    "paper_url": "https://www.nature.com/articles/s41598-026-67207-4_reference.pdf",
+    "sent_at": "2026-09-18T05:56:43.371159+00:00"
   }
 }
