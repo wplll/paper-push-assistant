@@ -1278,5 +1278,15 @@
     "title": "MGAFTracker",
     "paper_url": "https://www.nature.com/articles/s41598-026-67207-4_reference.pdf",
     "sent_at": "2026-09-18T05:56:43.371159+00:00"
+  },
+  "2b27cec7accdc3d7": {
+    "title": "MGTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11005508",
+    "sent_at": "2026-09-19T05:54:30.862902+00:00"
+  },
+  "85487ffb003717c6": {
+    "title": "STTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11026807",
+    "sent_at": "2026-09-19T05:54:30.862923+00:00"
   }
 }
