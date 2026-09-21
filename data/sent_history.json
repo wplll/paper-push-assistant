@@ -1298,5 +1298,15 @@
     "title": "ARMN",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11005508",
     "sent_at": "2026-09-20T06:18:38.668860+00:00"
+  },
+  "52c1487a11dc440e": {
+    "title": "MFNet",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10971948",
+    "sent_at": "2026-09-21T06:22:46.209202+00:00"
+  },
+  "76e1bab4aae327e6": {
+    "title": "AINet",
+    "paper_url": "https://ojs.aaai.org/index.php/AAAI/article/view/32618",
+    "sent_at": "2026-09-21T06:22:46.209227+00:00"
   }
 }
