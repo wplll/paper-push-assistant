@@ -1328,5 +1328,15 @@
     "title": "BAT",
     "paper_url": "https://arxiv.org/abs/2312.10611",
     "sent_at": "2026-09-23T05:59:47.602408+00:00"
+  },
+  "673ac878a9c051f0": {
+    "title": "AFter",
+    "paper_url": "https://arxiv.org/abs/2405.02717",
+    "sent_at": "2026-09-24T06:11:18.327165+00:00"
+  },
+  "e9826650bf288c8a": {
+    "title": "MambaVT",
+    "paper_url": "https://arxiv.org/abs/2408.07889",
+    "sent_at": "2026-09-24T06:11:18.327185+00:00"
   }
 }
