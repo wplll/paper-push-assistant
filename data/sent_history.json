@@ -1338,5 +1338,15 @@
     "title": "MambaVT",
     "paper_url": "https://arxiv.org/abs/2408.07889",
     "sent_at": "2026-09-24T06:11:18.327185+00:00"
+  },
+  "9b2ba6d6f7bd186d": {
+    "title": "SiamDFF",
+    "paper_url": "https://arxiv.org/abs/2512.04581",
+    "sent_at": "2026-09-25T06:10:26.153132+00:00"
+  },
+  "c2467b6a4d42471a": {
+    "title": "MTNet",
+    "paper_url": "https://arxiv.org/abs/2508.17280",
+    "sent_at": "2026-09-25T06:10:26.153156+00:00"
   }
 }
