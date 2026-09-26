@@ -1348,5 +1348,15 @@
     "title": "MTNet",
     "paper_url": "https://arxiv.org/abs/2508.17280",
     "sent_at": "2026-09-25T06:10:26.153156+00:00"
+  },
+  "09cd61ff2b575d94": {
+    "title": "CST Anti-UAV",
+    "paper_url": "https://arxiv.org/abs/2507.23473",
+    "sent_at": "2026-09-26T06:10:44.289614+00:00"
+  },
+  "5d1c5e9ad95df956": {
+    "title": "mmMobileViT",
+    "paper_url": "https://arxiv.org/abs/2506.19154",
+    "sent_at": "2026-09-26T06:10:44.289639+00:00"
   }
 }
