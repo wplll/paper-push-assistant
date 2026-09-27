@@ -1358,5 +1358,15 @@
     "title": "mmMobileViT",
     "paper_url": "https://arxiv.org/abs/2506.19154",
     "sent_at": "2026-09-26T06:10:44.289639+00:00"
+  },
+  "cba573a348ffb4a7": {
+    "title": "SMMT",
+    "paper_url": "https://arxiv.org/abs/2505.04088",
+    "sent_at": "2026-09-27T06:37:36.883102+00:00"
+  },
+  "bbb0cf8ff45b6ebd": {
+    "title": "DCFG",
+    "paper_url": "https://arxiv.org/abs/2504.14311",
+    "sent_at": "2026-09-27T06:37:36.883127+00:00"
   }
 }
