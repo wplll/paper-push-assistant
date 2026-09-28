@@ -1368,5 +1368,15 @@
     "title": "DCFG",
     "paper_url": "https://arxiv.org/abs/2504.14311",
     "sent_at": "2026-09-27T06:37:36.883127+00:00"
+  },
+  "1b3f403fdc32f1a7": {
+    "title": "TPF",
+    "paper_url": "https://arxiv.org/abs/2503.11247",
+    "sent_at": "2026-09-28T06:55:35.779233+00:00"
+  },
+  "ff674f5d0e275596": {
+    "title": "UAUTrack",
+    "paper_url": "https://arxiv.org/abs/2512.02668",
+    "sent_at": "2026-09-28T06:55:35.779258+00:00"
   }
 }
