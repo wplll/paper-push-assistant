@@ -1378,5 +1378,15 @@
     "title": "UAUTrack",
     "paper_url": "https://arxiv.org/abs/2512.02668",
     "sent_at": "2026-09-28T06:55:35.779258+00:00"
+  },
+  "8eb35826b30eec0f": {
+    "title": "UST-Net",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11701388",
+    "sent_at": "2026-09-29T06:55:52.677603+00:00"
+  },
+  "7efee7c565f08cea": {
+    "title": "DMTrack",
+    "paper_url": "https://arxiv.org/abs/2508.01592",
+    "sent_at": "2026-09-29T06:55:52.677625+00:00"
   }
 }
