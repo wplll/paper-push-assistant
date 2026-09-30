@@ -1388,5 +1388,15 @@
     "title": "DMTrack",
     "paper_url": "https://arxiv.org/abs/2508.01592",
     "sent_at": "2026-09-29T06:55:52.677625+00:00"
+  },
+  "20f584e6269aa615": {
+    "title": "MAFNet & CMOTB",
+    "paper_url": "https://ieeexplore.ieee.org/document/10545535",
+    "sent_at": "2026-09-30T06:44:42.752504+00:00"
+  },
+  "db21340ed54408ae": {
+    "title": "Awesome MMOT",
+    "paper_url": "https://arxiv.org/abs/2405.14200",
+    "sent_at": "2026-09-30T06:44:42.752528+00:00"
   }
 }
