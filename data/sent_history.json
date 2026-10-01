@@ -1398,5 +1398,15 @@
     "title": "Awesome MMOT",
     "paper_url": "https://arxiv.org/abs/2405.14200",
     "sent_at": "2026-09-30T06:44:42.752528+00:00"
+  },
+  "115f0dd03d7c2e01": {
+    "title": "Lightweight Multimodal Adapter for Visual Object Tracking",
+    "paper_url": "https://www.mdpi.com/2504-2289/9/11/292",
+    "sent_at": "2026-10-01T07:12:08.612751+00:00"
+  },
+  "e4f238e72f3d61e2": {
+    "title": "JTD-UAV",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf",
+    "sent_at": "2026-10-01T07:12:08.612768+00:00"
   }
 }
