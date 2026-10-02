@@ -1408,5 +1408,15 @@
     "title": "JTD-UAV",
     "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf",
     "sent_at": "2026-10-01T07:12:08.612768+00:00"
+  },
+  "273669c55b493ae2": {
+    "title": "TMTR",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0950705125007774",
+    "sent_at": "2026-10-02T07:01:33.114342+00:00"
+  },
+  "a7d9812ff4a190de": {
+    "title": "ProVLT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10947500",
+    "sent_at": "2026-10-02T07:01:33.114364+00:00"
   }
 }
