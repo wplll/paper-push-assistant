@@ -1418,5 +1418,15 @@
     "title": "ProVLT",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10947500",
     "sent_at": "2026-10-02T07:01:33.114364+00:00"
+  },
+  "b567fcd938edb235": {
+    "title": "ESMTrack",
+    "paper_url": "https://arxiv.org/abs/2609.37162",
+    "sent_at": "2026-10-03T06:34:33.540125+00:00"
+  },
+  "46f57d1e1fb12c70": {
+    "title": "VLTVerse",
+    "paper_url": "https://arxiv.org/abs/2411.15600",
+    "sent_at": "2026-10-03T06:34:33.540141+00:00"
   }
 }
