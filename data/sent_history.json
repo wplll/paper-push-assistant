@@ -1428,5 +1428,15 @@
     "title": "VLTVerse",
     "paper_url": "https://arxiv.org/abs/2411.15600",
     "sent_at": "2026-10-03T06:34:33.540141+00:00"
+  },
+  "89f859d66111d922": {
+    "title": "DTVLT",
+    "paper_url": "https://arxiv.org/abs/2410.02492",
+    "sent_at": "2026-10-04T06:50:25.798995+00:00"
+  },
+  "0a4c30013ab6ab67": {
+    "title": "WebUOT-1M",
+    "paper_url": "https://arxiv.org/abs/2405.19818",
+    "sent_at": "2026-10-04T06:50:25.799016+00:00"
   }
 }
