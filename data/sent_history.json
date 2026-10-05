@@ -1438,5 +1438,15 @@
     "title": "WebUOT-1M",
     "paper_url": "https://arxiv.org/abs/2405.19818",
     "sent_at": "2026-10-04T06:50:25.799016+00:00"
+  },
+  "0a9dbc56208b5dc7": {
+    "title": "VLT-MI",
+    "paper_url": "https://arxiv.org/abs/2409.08887",
+    "sent_at": "2026-10-05T07:04:32.223584+00:00"
+  },
+  "0b743db401cce270": {
+    "title": "VastTrack",
+    "paper_url": "https://arxiv.org/abs/2403.03493",
+    "sent_at": "2026-10-05T07:04:32.223605+00:00"
   }
 }
