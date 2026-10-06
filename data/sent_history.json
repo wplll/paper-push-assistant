@@ -1448,5 +1448,15 @@
     "title": "VastTrack",
     "paper_url": "https://arxiv.org/abs/2403.03493",
     "sent_at": "2026-10-05T07:04:32.223605+00:00"
+  },
+  "9a98d95f43c9ad40": {
+    "title": "ALTracker",
+    "paper_url": "https://arxiv.org/abs/2407.20730",
+    "sent_at": "2026-10-06T07:37:00.581540+00:00"
+  },
+  "d24f8ec052157a1e": {
+    "title": "ElysiumTrack-1M & Elysium",
+    "paper_url": "https://arxiv.org/abs/2403.16558",
+    "sent_at": "2026-10-06T07:37:00.581563+00:00"
   }
 }
