@@ -1458,5 +1458,15 @@
     "title": "ElysiumTrack-1M & Elysium",
     "paper_url": "https://arxiv.org/abs/2403.16558",
     "sent_at": "2026-10-06T07:37:00.581563+00:00"
+  },
+  "3bbc1d19e12f5f56": {
+    "title": "Tapall.ai",
+    "paper_url": "https://arxiv.org/abs/2406.07043",
+    "sent_at": "2026-10-07T07:15:32.195385+00:00"
+  },
+  "e8f8212c86355548": {
+    "title": "DTLLM-VLT",
+    "paper_url": "https://arxiv.org/abs/2405.12139",
+    "sent_at": "2026-10-07T07:15:32.195406+00:00"
   }
 }
