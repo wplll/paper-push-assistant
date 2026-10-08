@@ -1468,5 +1468,15 @@
     "title": "DTLLM-VLT",
     "paper_url": "https://arxiv.org/abs/2405.12139",
     "sent_at": "2026-10-07T07:15:32.195406+00:00"
+  },
+  "c97f0d58644a4d9e": {
+    "title": "UVLTrack",
+    "paper_url": "https://arxiv.org/abs/2401.11228",
+    "sent_at": "2026-10-08T07:26:20.052752+00:00"
+  },
+  "99558f2046569afd": {
+    "title": "QueryNLT",
+    "paper_url": "https://arxiv.org/abs/2403.19975",
+    "sent_at": "2026-10-08T07:26:20.052771+00:00"
   }
 }
