@@ -1478,5 +1478,15 @@
     "title": "QueryNLT",
     "paper_url": "https://arxiv.org/abs/2403.19975",
     "sent_at": "2026-10-08T07:26:20.052771+00:00"
+  },
+  "b1a13bd2719eef4a": {
+    "title": "GAP-Track",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-3-032-37189-8_4",
+    "sent_at": "2026-10-09T07:24:50.321630+00:00"
+  },
+  "49bf29f87b137a88": {
+    "title": "HPL",
+    "paper_url": "https://ieeexplore.ieee.org/document/10962221",
+    "sent_at": "2026-10-09T07:24:50.321654+00:00"
   }
 }
