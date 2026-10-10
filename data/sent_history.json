@@ -1488,5 +1488,15 @@
     "title": "HPL",
     "paper_url": "https://ieeexplore.ieee.org/document/10962221",
     "sent_at": "2026-10-09T07:24:50.321654+00:00"
+  },
+  "d1fc43373fc30edb": {
+    "title": "SNNPTrack",
+    "paper_url": "https://ieeexplore.ieee.org/document/10889195",
+    "sent_at": "2026-10-10T07:09:40.228771+00:00"
+  },
+  "b1c0528e5b6868b0": {
+    "title": "HDETrack",
+    "paper_url": "https://arxiv.org/abs/2309.14611",
+    "sent_at": "2026-10-10T07:09:40.228783+00:00"
   }
 }
