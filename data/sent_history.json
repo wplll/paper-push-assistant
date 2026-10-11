@@ -1498,5 +1498,15 @@
     "title": "HDETrack",
     "paper_url": "https://arxiv.org/abs/2309.14611",
     "sent_at": "2026-10-10T07:09:40.228783+00:00"
+  },
+  "4ae32e8bfe6acdd5": {
+    "title": "RDT-TEF",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0950705125005775?via%3Dihub",
+    "sent_at": "2026-10-11T07:13:20.325664+00:00"
+  },
+  "ab7c27d9cfd6e737": {
+    "title": "Depth Attention",
+    "paper_url": "https://arxiv.org/abs/2410.20395",
+    "sent_at": "2026-10-11T07:13:20.325685+00:00"
   }
 }
