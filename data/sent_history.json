@@ -1518,5 +1518,15 @@
     "title": "UniMergeTrack",
     "paper_url": "https://arxiv.org/abs/2610.13053",
     "sent_at": "2026-10-12T07:22:50.097961+00:00"
+  },
+  "c5d3040754cbb617": {
+    "title": "QTrack",
+    "paper_url": "https://arxiv.org/abs/2603.13759",
+    "sent_at": "2026-10-13T07:43:50.636879+00:00"
+  },
+  "23fca1072a2c8c9f": {
+    "title": "CGATrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S156625352501070X",
+    "sent_at": "2026-10-13T07:43:50.636897+00:00"
   }
 }
