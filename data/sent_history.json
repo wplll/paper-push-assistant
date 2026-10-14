@@ -1528,5 +1528,15 @@
     "title": "CGATrack",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S156625352501070X",
     "sent_at": "2026-10-13T07:43:50.636897+00:00"
+  },
+  "9b70f8366c72f348": {
+    "title": "Vision-Inspired Transformer-Based Thermal Infrared Target Tracking Framework for Internet of Things",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11142785",
+    "sent_at": "2026-10-14T06:09:53.962208+00:00"
+  },
+  "1b9acdb2ad74686d": {
+    "title": "DIDPT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11063681",
+    "sent_at": "2026-10-14T06:09:53.962231+00:00"
   }
 }
