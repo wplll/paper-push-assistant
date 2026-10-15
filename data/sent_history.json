@@ -1538,5 +1538,15 @@
     "title": "DIDPT",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11063681",
     "sent_at": "2026-10-14T06:09:53.962231+00:00"
+  },
+  "47bf429e3b3bad05": {
+    "title": "LRPD",
+    "paper_url": "https://dl.acm.org/doi/abs/10.1145/3731715.3733332",
+    "sent_at": "2026-10-15T05:55:24.893931+00:00"
+  },
+  "1ddee0991213c768": {
+    "title": "Dual-stream siamese network for RGB-T dual-modal fusion object tracking on UAV",
+    "paper_url": "https://link.springer.com/article/10.1007/s11227-025-07519-w",
+    "sent_at": "2026-10-15T05:55:24.893960+00:00"
   }
 }
