@@ -1548,5 +1548,15 @@
     "title": "Dual-stream siamese network for RGB-T dual-modal fusion object tracking on UAV",
     "paper_url": "https://link.springer.com/article/10.1007/s11227-025-07519-w",
     "sent_at": "2026-10-15T05:55:24.893960+00:00"
+  },
+  "f34039d9731e2e76": {
+    "title": "An RGB-T multimodal information fusion visual object tracking algorithm based on correlation filtering",
+    "paper_url": "https://doi.org/10.1117/12.3095449",
+    "sent_at": "2026-10-16T05:53:25.805098+00:00"
+  },
+  "e1e7480375c0b39f": {
+    "title": "TVTracker",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10948521",
+    "sent_at": "2026-10-16T05:53:25.805121+00:00"
   }
 }
