@@ -1558,5 +1558,15 @@
     "title": "TVTracker",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10948521",
     "sent_at": "2026-10-16T05:53:25.805121+00:00"
+  },
+  "a386e9581e6c5629": {
+    "title": "CKD",
+    "paper_url": "https://arxiv.org/abs/2410.11586",
+    "sent_at": "2026-10-17T05:37:48.969485+00:00"
+  },
+  "8bec6d7df46121a7": {
+    "title": "SDSTrack",
+    "paper_url": "https://arxiv.org/abs/2403.16002",
+    "sent_at": "2026-10-17T05:37:48.969511+00:00"
   }
 }
