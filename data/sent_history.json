@@ -1568,5 +1568,15 @@
     "title": "SDSTrack",
     "paper_url": "https://arxiv.org/abs/2403.16002",
     "sent_at": "2026-10-17T05:37:48.969511+00:00"
+  },
+  "75ef7618ddd1ec66": {
+    "title": "VP-EVT",
+    "paper_url": "https://arxiv.org/abs/2610.21999",
+    "sent_at": "2026-10-18T05:55:17.886235+00:00"
+  },
+  "016c5f9c28a2a825": {
+    "title": "LMFTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0020025526012314",
+    "sent_at": "2026-10-18T05:55:17.886259+00:00"
   }
 }
