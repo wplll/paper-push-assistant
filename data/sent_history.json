@@ -1578,5 +1578,15 @@
     "title": "LMFTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S0020025526012314",
     "sent_at": "2026-10-18T05:55:17.886259+00:00"
+  },
+  "ae80620d43e52efd": {
+    "title": "RGBS50 & SCANet",
+    "paper_url": "https://arxiv.org/abs/2406.07189",
+    "sent_at": "2026-10-19T06:13:52.394062+00:00"
+  },
+  "3cc0cce8ddbf1b29": {
+    "title": "ProtoTrack",
+    "paper_url": "https://arxiv.org/pdf/2312.14471",
+    "sent_at": "2026-10-19T06:13:52.394081+00:00"
   }
 }
