@@ -1588,5 +1588,15 @@
     "title": "ProtoTrack",
     "paper_url": "https://arxiv.org/pdf/2312.14471",
     "sent_at": "2026-10-19T06:13:52.394081+00:00"
+  },
+  "8e2c18e8109d1cc0": {
+    "title": "ATSTrack",
+    "paper_url": "https://arxiv.org/abs/2507.00454",
+    "sent_at": "2026-10-20T06:01:58.773878+00:00"
+  },
+  "ad1c7549b0d815f2": {
+    "title": "MMTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10208210",
+    "sent_at": "2026-10-20T06:01:58.773897+00:00"
   }
 }
