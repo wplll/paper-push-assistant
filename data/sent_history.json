@@ -1598,5 +1598,15 @@
     "title": "MMTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10208210",
     "sent_at": "2026-10-20T06:01:58.773897+00:00"
+  },
+  "b9ae7adc5f72a2a8": {
+    "title": "VLT_OST",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10547435",
+    "sent_at": "2026-10-21T06:03:26.586707+00:00"
+  },
+  "4ae3fff5232f5cfe": {
+    "title": "HAD",
+    "paper_url": "https://arxiv.org/abs/2510.19560",
+    "sent_at": "2026-10-21T06:03:26.586731+00:00"
   }
 }
