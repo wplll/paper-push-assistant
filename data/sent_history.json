@@ -1608,5 +1608,15 @@
     "title": "HAD",
     "paper_url": "https://arxiv.org/abs/2510.19560",
     "sent_at": "2026-10-21T06:03:26.586731+00:00"
+  },
+  "43ce5c7f92ffdd3c": {
+    "title": "SpikeFET.",
+    "paper_url": "https://arxiv.org/abs/2505.20834",
+    "sent_at": "2026-10-22T06:07:43.442394+00:00"
+  },
+  "5104393feda19abc": {
+    "title": "SDTrack",
+    "paper_url": "https://arxiv.org/abs/2503.08703",
+    "sent_at": "2026-10-22T06:07:43.442412+00:00"
   }
 }
