@@ -1618,5 +1618,15 @@
     "title": "SDTrack",
     "paper_url": "https://arxiv.org/abs/2503.08703",
     "sent_at": "2026-10-22T06:07:43.442412+00:00"
+  },
+  "6f2b5c993da5d872": {
+    "title": "ED-DCFNet",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Ramon_ED-DCFNet_An_Unsupervised_Encoder-decoder_Neural_Model_for_Event-driven_Feature_Extraction_CVPRW_2024_paper.pdf",
+    "sent_at": "2026-10-23T06:03:04.114494+00:00"
+  },
+  "dd4dd78859738692": {
+    "title": "HMAD",
+    "paper_url": "https://arxiv.org/abs/2504.17595",
+    "sent_at": "2026-10-23T06:03:04.114517+00:00"
   }
 }
