@@ -1628,5 +1628,15 @@
     "title": "HMAD",
     "paper_url": "https://arxiv.org/abs/2504.17595",
     "sent_at": "2026-10-23T06:03:04.114517+00:00"
+  },
+  "0c3556951f10160a": {
+    "title": "RAGM-track",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S002002552601220X",
+    "sent_at": "2026-10-24T05:55:44.142998+00:00"
+  },
+  "b5d9070230c020bd": {
+    "title": "CDAAT",
+    "paper_url": "https://ieeexplore.ieee.org/document/10472092/",
+    "sent_at": "2026-10-24T05:55:44.143022+00:00"
   }
 }
