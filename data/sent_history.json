@@ -1638,5 +1638,15 @@
     "title": "CDAAT",
     "paper_url": "https://ieeexplore.ieee.org/document/10472092/",
     "sent_at": "2026-10-24T05:55:44.143022+00:00"
+  },
+  "858d164587b7f6fa": {
+    "title": "SMTT",
+    "paper_url": "https://arxiv.org/abs/2504.14566",
+    "sent_at": "2026-10-25T06:08:57.845248+00:00"
+  },
+  "5652b2f1f4247404": {
+    "title": "STARS",
+    "paper_url": "https://arxiv.org/abs/2504.14491",
+    "sent_at": "2026-10-25T06:08:57.845265+00:00"
   }
 }
