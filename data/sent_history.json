@@ -1658,5 +1658,15 @@
     "title": "BTMTrack",
     "paper_url": "https://arxiv.org/abs/2501.03616",
     "sent_at": "2026-10-26T06:16:09.074618+00:00"
+  },
+  "63fbe75043b1746e": {
+    "title": "MAVT",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0957417426037218",
+    "sent_at": "2026-10-27T06:18:09.245758+00:00"
+  },
+  "da34ed54fa782668": {
+    "title": "MMRGBT",
+    "paper_url": "https://link.springer.com/article/10.1007/s11263-024-02311-4",
+    "sent_at": "2026-10-27T06:18:09.245781+00:00"
   }
 }
