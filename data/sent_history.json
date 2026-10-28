@@ -1668,5 +1668,15 @@
     "title": "MMRGBT",
     "paper_url": "https://link.springer.com/article/10.1007/s11263-024-02311-4",
     "sent_at": "2026-10-27T06:18:09.245781+00:00"
+  },
+  "f8bb63d856266f77": {
+    "title": "SiamTFA",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10804856",
+    "sent_at": "2026-10-28T06:52:15.908995+00:00"
+  },
+  "c99825abb5aae168": {
+    "title": "Local Point Matching for Collaborative Image Registration and RGBT Anti-UAV Tracking",
+    "paper_url": "https://link.springer.com/chapter/10.1007/978-981-97-8858-3_29",
+    "sent_at": "2026-10-28T06:52:15.909015+00:00"
   }
 }
