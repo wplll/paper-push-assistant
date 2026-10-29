@@ -1678,5 +1678,15 @@
     "title": "Local Point Matching for Collaborative Image Registration and RGBT Anti-UAV Tracking",
     "paper_url": "https://link.springer.com/chapter/10.1007/978-981-97-8858-3_29",
     "sent_at": "2026-10-28T06:52:15.909015+00:00"
+  },
+  "e74e1624d99997b7": {
+    "title": "TBSI",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10706882",
+    "sent_at": "2026-10-29T07:07:02.457779+00:00"
+  },
+  "f83100f044b2163b": {
+    "title": "MELT",
+    "paper_url": "https://dl.acm.org/doi/abs/10.1145/3678176",
+    "sent_at": "2026-10-29T07:07:02.457794+00:00"
   }
 }
