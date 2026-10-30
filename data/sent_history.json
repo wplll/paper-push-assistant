@@ -1688,5 +1688,15 @@
     "title": "MELT",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3678176",
     "sent_at": "2026-10-29T07:07:02.457794+00:00"
+  },
+  "5d6ea2986fb8f996": {
+    "title": "UnHOT",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11744633",
+    "sent_at": "2026-10-30T07:08:02.306289+00:00"
+  },
+  "33762046eaceff24": {
+    "title": "Trans-DAT",
+    "paper_url": "https://ieeexplore.ieee.org/document/10491347",
+    "sent_at": "2026-10-30T07:08:02.306310+00:00"
   }
 }
