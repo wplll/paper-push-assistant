@@ -1698,5 +1698,15 @@
     "title": "Trans-DAT",
     "paper_url": "https://ieeexplore.ieee.org/document/10491347",
     "sent_at": "2026-10-30T07:08:02.306310+00:00"
+  },
+  "f150cb0afbcc3161": {
+    "title": "Fed-MAPTrack",
+    "paper_url": "https://arxiv.org/abs/2610.34939",
+    "sent_at": "2026-10-31T07:00:35.482058+00:00"
+  },
+  "aa18473805bdab00": {
+    "title": "FETA",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225009129",
+    "sent_at": "2026-10-31T07:00:35.482082+00:00"
   }
 }
