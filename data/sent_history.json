@@ -1708,5 +1708,15 @@
     "title": "FETA",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0925231225009129",
     "sent_at": "2026-10-31T07:00:35.482082+00:00"
+  },
+  "9f2543d1cbf610d3": {
+    "title": "CMTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11207713",
+    "sent_at": "2026-11-01T07:33:51.780329+00:00"
+  },
+  "95fb5043d680290d": {
+    "title": "MACT",
+    "paper_url": "https://ieeexplore.ieee.org/document/11214228",
+    "sent_at": "2026-11-01T07:33:51.780356+00:00"
   }
 }
