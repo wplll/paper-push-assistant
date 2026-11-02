@@ -1718,5 +1718,15 @@
     "title": "MACT",
     "paper_url": "https://ieeexplore.ieee.org/document/11214228",
     "sent_at": "2026-11-01T07:33:51.780356+00:00"
+  },
+  "5c11c73cf087f123": {
+    "title": "MDCT",
+    "paper_url": "https://dl.acm.org/doi/10.1145/3746267.3762172",
+    "sent_at": "2026-11-02T07:41:44.671373+00:00"
+  },
+  "5b2f873add21af02": {
+    "title": "THM",
+    "paper_url": "https://doi.org/10.3390/ai6100263",
+    "sent_at": "2026-11-02T07:41:44.671387+00:00"
   }
 }
