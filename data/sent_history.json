@@ -1728,5 +1728,15 @@
     "title": "THM",
     "paper_url": "https://doi.org/10.3390/ai6100263",
     "sent_at": "2026-11-02T07:41:44.671387+00:00"
+  },
+  "c8cebdd17bced2c3": {
+    "title": "VLDF",
+    "paper_url": "https://link.springer.com/article/10.1007/s11227-025-07472-8",
+    "sent_at": "2026-11-03T07:56:12.750763+00:00"
+  },
+  "8e7c742a12ed3da9": {
+    "title": "MHITrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10980446",
+    "sent_at": "2026-11-03T07:56:12.750786+00:00"
   }
 }
