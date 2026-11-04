@@ -1738,5 +1738,15 @@
     "title": "MHITrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10980446",
     "sent_at": "2026-11-03T07:56:12.750786+00:00"
+  },
+  "9920eacf98542929": {
+    "title": "TRACE",
+    "paper_url": "https://arxiv.org/abs/2610.41275",
+    "sent_at": "2026-11-04T07:30:30.558872+00:00"
+  },
+  "9acc8fee103e0ffa": {
+    "title": "SProTrack",
+    "paper_url": "https://arxiv.org/abs/2611.02512",
+    "sent_at": "2026-11-04T07:30:30.558895+00:00"
   }
 }
