@@ -1748,5 +1748,15 @@
     "title": "SProTrack",
     "paper_url": "https://arxiv.org/abs/2611.02512",
     "sent_at": "2026-11-04T07:30:30.558895+00:00"
+  },
+  "2a8652029cfefde8": {
+    "title": "WTTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0923596526002778",
+    "sent_at": "2026-11-05T07:55:23.185219+00:00"
+  },
+  "85141a1d8d6fa78c": {
+    "title": "Dual-Stream Attention and Complementarity Fusion RGB-T Tracking Based on Siamese Network",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11754970",
+    "sent_at": "2026-11-05T07:55:23.185237+00:00"
   }
 }
