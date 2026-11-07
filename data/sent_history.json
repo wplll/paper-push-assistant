@@ -1768,5 +1768,15 @@
     "title": "TCMLTrack",
     "paper_url": "https://www.nature.com/articles/s41598-025-85335-1",
     "sent_at": "2026-11-06T07:56:40.227668+00:00"
+  },
+  "efe12024de770822": {
+    "title": "SATrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10973162",
+    "sent_at": "2026-11-07T07:14:17.301388+00:00"
+  },
+  "76f6c58666a534ba": {
+    "title": "SIEVL-Track",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10845881",
+    "sent_at": "2026-11-07T07:14:17.301409+00:00"
   }
 }
