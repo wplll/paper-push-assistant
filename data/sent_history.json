@@ -1778,5 +1778,15 @@
     "title": "SIEVL-Track",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10845881",
     "sent_at": "2026-11-07T07:14:17.301409+00:00"
+  },
+  "e9a7e6f0f17ceb88": {
+    "title": "SEPT",
+    "paper_url": "https://arxiv.org/abs/2611.07713",
+    "sent_at": "2026-11-08T07:22:21.975721+00:00"
+  },
+  "e058654970a5d710": {
+    "title": "GUSEM",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Hay_Comparing_Representations_for_Event_Camera-based_Visual_Object_Tracking_ICCVW_2025_paper.html",
+    "sent_at": "2026-11-08T07:22:21.975743+00:00"
   }
 }
