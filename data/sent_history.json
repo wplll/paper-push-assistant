@@ -1788,5 +1788,15 @@
     "title": "GUSEM",
     "paper_url": "https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Hay_Comparing_Representations_for_Event_Camera-based_Visual_Object_Tracking_ICCVW_2025_paper.html",
     "sent_at": "2026-11-08T07:22:21.975743+00:00"
+  },
+  "ca1be0e2eb802e05": {
+    "title": "HyMamba",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11769758",
+    "sent_at": "2026-11-09T07:59:55.137777+00:00"
+  },
+  "5e926457d50731af": {
+    "title": "FAEFTrack",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10994255",
+    "sent_at": "2026-11-09T07:59:55.137801+00:00"
   }
 }
