@@ -1798,5 +1798,15 @@
     "title": "FAEFTrack",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10994255",
     "sent_at": "2026-11-09T07:59:55.137801+00:00"
+  },
+  "687542faea6b096b": {
+    "title": "Bayer-Thermal",
+    "paper_url": "https://doi.org/10.1117/12.3079227",
+    "sent_at": "2026-11-10T08:26:02.551336+00:00"
+  },
+  "9ac4e6355af56387": {
+    "title": "EHDA",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10890354",
+    "sent_at": "2026-11-10T08:26:02.551357+00:00"
   }
 }
