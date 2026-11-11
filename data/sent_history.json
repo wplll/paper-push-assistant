@@ -1808,5 +1808,15 @@
     "title": "EHDA",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10890354",
     "sent_at": "2026-11-10T08:26:02.551357+00:00"
+  },
+  "ef333e68cfcef506": {
+    "title": "A Confidence-Based Sampling Strategy for Dense Temporal Token Learning in Thermal Infrared Object Tracking",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/11084483",
+    "sent_at": "2026-11-11T07:45:34.175918+00:00"
+  },
+  "69b00de9cad75d4e": {
+    "title": "Multimodal object tracking using raw visible and thermal infrared data",
+    "paper_url": "https://doi.org/10.1117/12.3079227",
+    "sent_at": "2026-11-11T07:45:34.175943+00:00"
   }
 }
