@@ -1818,5 +1818,15 @@
     "title": "Multimodal object tracking using raw visible and thermal infrared data",
     "paper_url": "https://doi.org/10.1117/12.3079227",
     "sent_at": "2026-11-11T07:45:34.175943+00:00"
+  },
+  "65b76f014f42a922": {
+    "title": "U2Track",
+    "paper_url": "https://dl.acm.org/doi/10.1145/3767308.3835490",
+    "sent_at": "2026-11-12T08:20:43.944573+00:00"
+  },
+  "05f17ebd2c9685b5": {
+    "title": "GateKVT",
+    "paper_url": "https://doi.org/10.1145/3767308.3835287",
+    "sent_at": "2026-11-12T08:20:43.944598+00:00"
   }
 }
