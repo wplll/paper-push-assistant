@@ -1828,5 +1828,15 @@
     "title": "GateKVT",
     "paper_url": "https://doi.org/10.1145/3767308.3835287",
     "sent_at": "2026-11-12T08:20:43.944598+00:00"
+  },
+  "95f4598734b9277e": {
+    "title": "SiM",
+    "paper_url": "https://dl.acm.org/doi/10.1145/3767308.3835885",
+    "sent_at": "2026-11-13T07:59:23.407442+00:00"
+  },
+  "04732c38afe8c9ea": {
+    "title": "TIPTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425027721",
+    "sent_at": "2026-11-13T07:59:23.407461+00:00"
   }
 }
