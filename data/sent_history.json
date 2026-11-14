@@ -1838,5 +1838,15 @@
     "title": "TIPTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417425027721",
     "sent_at": "2026-11-13T07:59:23.407461+00:00"
+  },
+  "b21aea4def01001f": {
+    "title": "MGNet",
+    "paper_url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878",
+    "sent_at": "2026-11-14T07:37:22.877266+00:00"
+  },
+  "67d75af4c7a98951": {
+    "title": "DMD",
+    "paper_url": "https://ieeexplore.ieee.org/abstract/document/10975100",
+    "sent_at": "2026-11-14T07:37:22.877296+00:00"
   }
 }
