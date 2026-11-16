@@ -1858,5 +1858,15 @@
     "title": "FFTR",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10946152",
     "sent_at": "2026-11-15T07:52:51.658963+00:00"
+  },
+  "a71fe88a9e4a04b4": {
+    "title": "TUFNet",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S0950705125000310",
+    "sent_at": "2026-11-16T08:00:08.020876+00:00"
+  },
+  "4270fb16a849ecd4": {
+    "title": "DIMTrack",
+    "paper_url": "https://www.sciencedirect.com/science/article/pii/S1051200425008437",
+    "sent_at": "2026-11-16T08:00:08.020891+00:00"
   }
 }
