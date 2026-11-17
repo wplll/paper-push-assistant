@@ -1868,5 +1868,15 @@
     "title": "DIMTrack",
     "paper_url": "https://www.sciencedirect.com/science/article/pii/S1051200425008437",
     "sent_at": "2026-11-16T08:00:08.020891+00:00"
+  },
+  "40446c6d87c55694": {
+    "title": "MPTrack",
+    "paper_url": "https://ebooks.iospress.nl/volumearticle/75765",
+    "sent_at": "2026-11-17T09:14:06.508571+00:00"
+  },
+  "c4b55030b09b3c6d": {
+    "title": "MFATrack",
+    "paper_url": "https://link.springer.com/article/10.1007/s11760-025-04779-0",
+    "sent_at": "2026-11-17T09:14:06.508588+00:00"
   }
 }
