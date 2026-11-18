@@ -1878,5 +1878,15 @@
     "title": "MFATrack",
     "paper_url": "https://link.springer.com/article/10.1007/s11760-025-04779-0",
     "sent_at": "2026-11-17T09:14:06.508588+00:00"
+  },
+  "59ffe0039cf2324f": {
+    "title": "Un-Track",
+    "paper_url": "https://arxiv.org/abs/2311.15851",
+    "sent_at": "2026-11-18T08:33:27.587186+00:00"
+  },
+  "20462a6027dc6b58": {
+    "title": "SeqTrackv2",
+    "paper_url": "https://arxiv.org/abs/2304.14394",
+    "sent_at": "2026-11-18T08:33:27.587203+00:00"
   }
 }
