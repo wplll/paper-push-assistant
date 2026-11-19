@@ -1888,5 +1888,15 @@
     "title": "SeqTrackv2",
     "paper_url": "https://arxiv.org/abs/2304.14394",
     "sent_at": "2026-11-18T08:33:27.587203+00:00"
+  },
+  "c9aa38830b1ccb66": {
+    "title": "GSOT3D",
+    "paper_url": "https://arxiv.org/abs/2412.02129",
+    "sent_at": "2026-11-19T08:49:18.414138+00:00"
+  },
+  "09108dc6498985b2": {
+    "title": "A Deep Dive into Generic Object Tracking: A Survey",
+    "paper_url": "https://arxiv.org/abs/2507.23251",
+    "sent_at": "2026-11-19T08:49:18.414157+00:00"
   }
 }
