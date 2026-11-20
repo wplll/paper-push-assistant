@@ -1898,5 +1898,15 @@
     "title": "A Deep Dive into Generic Object Tracking: A Survey",
     "paper_url": "https://arxiv.org/abs/2507.23251",
     "sent_at": "2026-11-19T08:49:18.414157+00:00"
+  },
+  "79049ae5cc9c1d98": {
+    "title": "ChatTracker",
+    "paper_url": "https://arxiv.org/abs/2411.01756",
+    "sent_at": "2026-11-20T08:34:06.493039+00:00"
+  },
+  "fd04145049156669": {
+    "title": "SemTrack",
+    "paper_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf",
+    "sent_at": "2026-11-20T08:34:06.493061+00:00"
   }
 }
